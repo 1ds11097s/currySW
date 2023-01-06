@@ -36,8 +36,8 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <template>
-  <adsbygoogle ad-slot="2872403902" />
-</template>
+        <adsbygoogle ad-slot="5892748097" />
+      </template>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="4">
@@ -80,6 +80,9 @@ If you are interested, please contact me through discord
           </v-card>
         </v-col>
       </v-row>
+      <template>
+        <adsbygoogle ad-slot="2872403902" />
+      </template>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">G3 RTA VIDEOS</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="4">
@@ -122,6 +125,9 @@ If you are interested, please contact me through discord
           </v-card>
         </v-col>
       </v-row>
+      <template>
+        <adsbygoogle ad-slot="9043910648" />
+      </template>
     </v-col>
     </template>
     <template v-else>
@@ -159,19 +165,9 @@ If you are interested, please contact me through discord
           </v-btn>
         </v-col>
       </v-row>
-      <v-row>
-        <v-col cols="4">
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
-        </v-col>
-        <v-spacer/>
-        <v-col cols="4">
-          <div>
-          <adsbygoogle ad-slot="5892748097" style="display:inline-block;width:300px;height:64px" />
-          </div>
-        </v-col>
-      </v-row>
       <template>
-</template>
+        <adsbygoogle ad-slot="5892748097" />
+      </template>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/3zjcQByViHA" target="_blank">
@@ -193,9 +189,6 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">TOP RECOMMEND VIDEOS</div>
-      <template>
-  <adsbygoogle ad-slot="2872403902" />
-</template>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/dxHpqnD9B5k" target="_blank">
@@ -216,6 +209,9 @@ If you are interested, please contact me through discord
           </v-card>
         </v-col>
       </v-row>
+      <template>
+        <adsbygoogle ad-slot="2872403902" />
+      </template>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">G3 RTA VIDEOS</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
@@ -258,6 +254,9 @@ If you are interested, please contact me through discord
           </v-card>
         </v-col>
       </v-row>
+      <template>
+        <adsbygoogle ad-slot="9043910648" />
+      </template>
     </v-col>
     </template>
   </v-row>
