@@ -157,6 +157,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
+      <div><adsbygoogle :ad-slot="'5892748097'" ad-format="" style="display:inline-block;width:300px;height:64px"/></div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/3zjcQByViHA" target="_blank">
@@ -178,6 +179,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">TOP RECOMMEND VIDEOS</div>
+      <div><adsbygoogle :ad-slot="'2872403902'" ad-format="" style="display:inline-block;width:300px;height:64px"/></div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/dxHpqnD9B5k" target="_blank">
