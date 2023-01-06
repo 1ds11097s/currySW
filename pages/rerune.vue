@@ -2,7 +2,7 @@
   <v-row justify="center" class="main-area rounded-xl py-10">
     <v-col cols="11" class="rounded-xl">
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Rerune Service Detail <v-btn text color="blue" class="font-weight-bold" href="https://discord.gg/daAeAZnwcH" target="_blank"> More Detail → Discord</v-btn></div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
           ----------------------------------------------------------------------------------------------------------------<br>
 Rerune Service<br>
