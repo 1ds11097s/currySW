@@ -133,7 +133,7 @@ If you are interested, please contact me through discord
     <template v-else>
       <v-col cols="11" class="rounded-xl">
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">What is this site?</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12" style="color:white">
           Here are some of the videos I post on youtube that I recommend<br>
 I created this site to let you know about me not from youtube but from google search<br>
@@ -142,7 +142,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">PROFILE</div>
-      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
         <v-col cols="12">
           <span>RTA Season Record</span><br>
           <span>Season21 - G3</span><br>
