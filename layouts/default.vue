@@ -2,8 +2,14 @@
  <v-app class="body-black">
     <Header />
     <v-row justify="center" class="mt-2 pb-4 px-6">
+      <v-col cols="1">
+        <adsbygoogle ad-slot="9043910648" />
+      </v-col>
       <v-col cols="10">
         <Nuxt />
+      </v-col>
+      <v-col cols="1">
+        <adsbygoogle ad-slot="2872403902" />
       </v-col>
     </v-row>
     <Footer />

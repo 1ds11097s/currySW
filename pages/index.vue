@@ -35,6 +35,9 @@ If you are interested, please contact me through discord
           </v-btn>
         </v-col>
       </v-row>
+      <template>
+  <adsbygoogle ad-slot="2872403902" />
+</template>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="4">
@@ -156,9 +159,18 @@ If you are interested, please contact me through discord
           </v-btn>
         </v-col>
       </v-row>
-      <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
+      <v-row>
+        <v-col cols="4">
+          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST POPULAR VIDEOS</div>
+        </v-col>
+        <v-spacer/>
+        <v-col cols="4">
+          <div>
+          <adsbygoogle ad-slot="5892748097" style="display:inline-block;width:300px;height:64px" />
+          </div>
+        </v-col>
+      </v-row>
       <template>
-  <adsbygoogle ad-slot="5892748097" />
 </template>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4">
         <v-col cols="12">
