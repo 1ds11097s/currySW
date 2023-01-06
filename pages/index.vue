@@ -12,7 +12,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">PROFILE</div>
-      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
         <v-col cols="4">
           <span>RTA Season Record</span><br>
           <span>Season21 - G3</span><br>
@@ -60,7 +60,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">TOP RECOMMEND VIDEOS</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="4">
           <v-card hover ripple style="height:100%" href="https://youtu.be/dxHpqnD9B5k" target="_blank">
             <v-img src="r1.png" style="position:relative"></v-img>
@@ -105,7 +105,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST RECENT VIDEOS</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="4">
           <v-card hover ripple style="height:100%" href="https://youtu.be/un4kXiOh9P0" target="_blank">
             <v-img src="m1.png" style="position:relative"></v-img>
@@ -133,7 +133,7 @@ If you are interested, please contact me through discord
     <template v-else>
       <v-col cols="11" class="rounded-xl">
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">What is this site?</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
           Here are some of the videos I post on youtube that I recommend<br>
 I created this site to let you know about me not from youtube but from google search<br>
@@ -168,7 +168,7 @@ If you are interested, please contact me through discord
       <template>
         <adsbygoogle ad-slot="5892748097" />
       </template>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mt-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/3zjcQByViHA" target="_blank">
             <v-img src="p1.png" style="position:relative"></v-img>
@@ -189,7 +189,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">TOP RECOMMEND VIDEOS</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/dxHpqnD9B5k" target="_blank">
             <v-img src="r1.png" style="position:relative"></v-img>
@@ -213,7 +213,7 @@ If you are interested, please contact me through discord
         <adsbygoogle ad-slot="2872403902" />
       </template>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">G3 RTA VIDEOS</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mt-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/DZ9LP2rT2iQ" target="_blank">
             <v-img src="g1.png" style="position:relative"></v-img>
@@ -234,7 +234,7 @@ If you are interested, please contact me through discord
         </v-col>
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">MOST RECENT VIDEOS</div>
-      <v-row justify="center" class="main-banner-area rounded-xl pa-4">
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12">
           <v-card hover ripple style="height:100%" href="https://youtu.be/un4kXiOh9P0" target="_blank">
             <v-img src="m1.png" style="position:relative"></v-img>
