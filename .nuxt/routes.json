@@ -1,0 +1,26 @@
+[
+  {
+    "name": "molong",
+    "path": "/molong",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\molong.vue",
+    "chunkName": "pages/molong"
+  },
+  {
+    "name": "monsters",
+    "path": "/monsters",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\monsters.vue",
+    "chunkName": "pages/monsters"
+  },
+  {
+    "name": "rerune",
+    "path": "/rerune",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\rerune.vue",
+    "chunkName": "pages/rerune"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
