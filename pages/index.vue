@@ -13,15 +13,16 @@ If you are interested, please contact me through discord
       </v-row>
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">PROFILE</div>
       <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
-        <v-col cols="4">
+        <v-col cols="3" class="text-center">
           <span>RTA Season Record</span><br>
           <span>Season21 - G3</span><br>
           <span>Season22 - G3</span><br>
           <span>Season23 - G3</span>
         </v-col>
-        <v-col cols="6">
-          <span>I post videos about RTA basically every day on Youtube</span><br>
-          <span>I mainly specialize in RTA and my style of play is turn2</span>
+        <v-col cols="7">
+          <span>I post videos on Youtube with various monsters</span><br>
+          <span>My play style is turn2, I mainly use mo long, riley, leo and verde, etc</span><br>
+          <span>Recently I have been able to achieve G3 consistently</span>
         </v-col>
         <v-col cols="2">
           <v-btn href="https://www.youtube.com/channel/UCl1OAS6CZ0VZXV2cJ-5Vkdw" text color="blue" target="_blank">

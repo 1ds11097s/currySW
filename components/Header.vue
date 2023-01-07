@@ -17,6 +17,9 @@
   <v-btn text color="blue" class="text-center mx-4" href="/rerune">
     <h3>Rerune Service Detail</h3>
   </v-btn>
+  <v-btn text color="blue" class="text-center mx-4" href="/monsters">
+    <h3>Monsters</h3>
+  </v-btn>
     </v-toolbar>
   </v-card>
 </template>

@@ -45,7 +45,18 @@ I will consider your best team in rta
 I will play rta for about 1 weeks considering different patterns and what is best for you
 Includes rerune to monsters in need<br><br>
 
-option 11 (10$) - make solo r5 team<br>
+option 11 (10$) - make solo r5 team<br><br>
+
+option 12 (80$) - rta boosting
+You can use this option if I determine that you have the potential to achieve your goals
+Basically, this is an option to be used later in the season
+I will play rta until your target rank range
+The number of wings used has nothing to do with the fee.
+No 100% guarantee that I will reach your goal
+I will include a simple rerune, but if you need the full rerune, please use option1a
+There is a limit on the number of requests
+※Difference from option10
+option10 is targeted at creating your best unit<br>
 ------------------------------------------------------------------------------------------------------------------
         </v-col>
       </v-row>
