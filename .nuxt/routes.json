@@ -3,24 +3,28 @@
     "name": "molong",
     "path": "/molong",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\molong.vue",
-    "chunkName": "pages/molong"
+    "chunkName": "pages/molong",
+    "_name": "_a47a202a"
   },
   {
     "name": "monsters",
     "path": "/monsters",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\monsters.vue",
-    "chunkName": "pages/monsters"
+    "chunkName": "pages/monsters",
+    "_name": "_08b5bc34"
   },
   {
     "name": "rerune",
     "path": "/rerune",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\rerune.vue",
-    "chunkName": "pages/rerune"
+    "chunkName": "pages/rerune",
+    "_name": "_5516113a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currysw2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_213cde95"
   }
 ]
