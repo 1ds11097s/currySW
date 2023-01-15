@@ -69,7 +69,12 @@
 
 <script>
 export default {
-  layout: "default"
+  layout: "default",
+  head() {
+    return {
+      title: "Mo Long - Curry's Monsters Report【Summoners War】",
+    }
+  },
 }
 </script>
 

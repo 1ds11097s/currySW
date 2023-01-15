@@ -1,4 +1,4 @@
-exports.ids = [4];
+exports.ids = [5];
 exports.modules = {
 
 /***/ 81:
@@ -30,7 +30,7 @@ const VCardTitle = Object(_util_helpers__WEBPACK_IMPORTED_MODULE_1__[/* createSi
 
 /***/ }),
 
-/***/ 94:
+/***/ 95:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -52,14 +52,14 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=template&id=477dd241&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=template&id=b2f6c08a&
 
 
 
 
 
 
-var molongvue_type_template_id_477dd241_render = function render() {
+var molongvue_type_template_id_b2f6c08a_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -269,11 +269,16 @@ var molongvue_type_template_id_477dd241_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/molong.vue?vue&type=template&id=477dd241&
+// CONCATENATED MODULE: ./pages/molong.vue?vue&type=template&id=b2f6c08a&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=script&lang=js&
 /* harmony default export */ var molongvue_type_script_lang_js_ = ({
-  layout: "default"
+  layout: "default",
+  head() {
+    return {
+      title: "Mo Long - Curry's Monsters Report【Summoners War】"
+    };
+  }
 });
 // CONCATENATED MODULE: ./pages/molong.vue?vue&type=script&lang=js&
  /* harmony default export */ var pages_molongvue_type_script_lang_js_ = (molongvue_type_script_lang_js_); 
@@ -290,12 +295,12 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_molongvue_type_script_lang_js_,
-  molongvue_type_template_id_477dd241_render,
+  molongvue_type_template_id_b2f6c08a_render,
   staticRenderFns,
   false,
   null,
   null,
-  "1809acf6"
+  "faa2acf6"
   
 )
 

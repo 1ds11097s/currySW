@@ -43,7 +43,7 @@ module.exports =
 /******/
 /******/ 		// "0" is the signal for "already loaded"
 /******/ 		if(installedChunks[chunkId] !== 0) {
-/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/index","4":"pages/molong","5":"pages/monsters","6":"pages/rerune"}[chunkId]||chunkId) + ".js");
+/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/belial","4":"pages/index","5":"pages/molong","6":"pages/monsters","7":"pages/rerune"}[chunkId]||chunkId) + ".js");
 /******/ 			var moreModules = chunk.modules, chunkIds = chunk.ids;
 /******/ 			for(var moduleId in moreModules) {
 /******/ 				modules[moduleId] = moreModules[moduleId];
@@ -3926,7 +3926,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "860f9418"
+  "5b169418"
   
 )
 
@@ -3972,7 +3972,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "c8745bfc"
+  "9d7b5bfc"
   
 )
 
@@ -5644,10 +5644,11 @@ function shouldScrollToTop(route) {
 
 
 
-const _a47a202a = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 4).then(__webpack_require__.bind(null, 94)));
-const _08b5bc34 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 5).then(__webpack_require__.bind(null, 95)));
-const _5516113a = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 6).then(__webpack_require__.bind(null, 96)));
-const _213cde95 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 97)));
+const _a66a6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/belial */ 3).then(__webpack_require__.bind(null, 94)));
+const _49ecebeb = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 5).then(__webpack_require__.bind(null, 95)));
+const _35401de6 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 6).then(__webpack_require__.bind(null, 96)));
+const _1d7fe58c = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 7).then(__webpack_require__.bind(null, 97)));
+const _cc393ad6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 4).then(__webpack_require__.bind(null, 98)));
 
 const emptyFn = () => {};
 external_vue_default.a.use(external_vue_router_default.a);
@@ -5658,20 +5659,24 @@ const routerOptions = {
   linkExactActiveClass: 'nuxt-link-exact-active',
   scrollBehavior: router_scrollBehavior,
   routes: [{
+    path: "/belial",
+    component: _a66a6910,
+    name: "belial"
+  }, {
     path: "/molong",
-    component: _a47a202a,
+    component: _49ecebeb,
     name: "molong"
   }, {
     path: "/monsters",
-    component: _08b5bc34,
+    component: _35401de6,
     name: "monsters"
   }, {
     path: "/rerune",
-    component: _5516113a,
+    component: _1d7fe58c,
     name: "rerune"
   }, {
     path: "/",
-    component: _213cde95,
+    component: _cc393ad6,
     name: "index"
   }],
   fallback: false
@@ -5843,7 +5848,7 @@ var nuxt_error_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "4e8bf75a"
+  "1268775a"
   
 )
 
@@ -6107,7 +6112,7 @@ var nuxt_loading_component = Object(componentNormalizer["a" /* default */])(
   false,
   nuxt_loading_injectStyles,
   null,
-  "51c2860e"
+  "df01f3e4"
   
 )
 
@@ -6242,7 +6247,7 @@ var default_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "4acba722"
+  "2536ac6f"
   
 )
 
@@ -6411,8 +6416,8 @@ const layouts = {
 // CONCATENATED MODULE: ./.nuxt/components/index.js
 const components_Footer = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 23)).then(c => wrapFunctional(c.default || c));
 const components_Header = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 22)).then(c => wrapFunctional(c.default || c));
-const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 99)).then(c => wrapFunctional(c.default || c));
-const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 98)).then(c => wrapFunctional(c.default || c));
+const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 100)).then(c => wrapFunctional(c.default || c));
+const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 99)).then(c => wrapFunctional(c.default || c));
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
@@ -6633,7 +6638,7 @@ var Adsbygoogle_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "3d728a1c"
+  "a7398a1c"
   
 )
 
