@@ -5,9 +5,16 @@
     "components/tutorial.js": "components/tutorial.js",
     "pages/belial.js": "pages/belial.js",
     "pages/index.js": "pages/index.js",
+    "pages/josephine.js": "pages/josephine.js",
+    "pages/juno.js": "pages/juno.js",
+    "pages/laika.js": "pages/laika.js",
+    "pages/leo.js": "pages/leo.js",
     "pages/molong.js": "pages/molong.js",
     "pages/monsters.js": "pages/monsters.js",
+    "pages/rakan.js": "pages/rakan.js",
     "pages/rerune.js": "pages/rerune.js",
+    "pages/suiki.js": "pages/suiki.js",
+    "pages/xingzhe.js": "pages/xingzhe.js",
     "server.js": "server.js"
   },
   "maps": {
@@ -15,9 +22,16 @@
     "components/tutorial.js": "components/tutorial.js.map",
     "pages/belial.js": "pages/belial.js.map",
     "pages/index.js": "pages/index.js.map",
+    "pages/josephine.js": "pages/josephine.js.map",
+    "pages/juno.js": "pages/juno.js.map",
+    "pages/laika.js": "pages/laika.js.map",
+    "pages/leo.js": "pages/leo.js.map",
     "pages/molong.js": "pages/molong.js.map",
     "pages/monsters.js": "pages/monsters.js.map",
+    "pages/rakan.js": "pages/rakan.js.map",
     "pages/rerune.js": "pages/rerune.js.map",
+    "pages/suiki.js": "pages/suiki.js.map",
+    "pages/xingzhe.js": "pages/xingzhe.js.map",
     "server.js": "server.js.map"
   }
 }

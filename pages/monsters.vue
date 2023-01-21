@@ -6,6 +6,13 @@
         <v-col cols="12" style="color:white">
           <v-btn text color="blue" class="font-weight-bold" href="/molong">Mo Long(Water Panda Warrior)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/belial">Belial(Water Demon)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/leo">Leo(Wind Dragon Knight)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/suiki">Suiki(Water Onimusha)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/josephine">Josephine(Water Paladin)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/juno">Juno(Fire Oracle)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/rakan">Rakan(Fire Chimera)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/laika">Laika(Fire Dragon Knight)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/xingzhe">Xing Zhe(Wind Monkey King)</v-btn>
         </v-col>
       </v-row>
       <template>

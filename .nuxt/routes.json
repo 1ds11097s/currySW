@@ -7,6 +7,34 @@
     "_name": "_a66a6910"
   },
   {
+    "name": "josephine",
+    "path": "/josephine",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\josephine.vue",
+    "chunkName": "pages/josephine",
+    "_name": "_3885abb4"
+  },
+  {
+    "name": "juno",
+    "path": "/juno",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\juno.vue",
+    "chunkName": "pages/juno",
+    "_name": "_53b92f59"
+  },
+  {
+    "name": "laika",
+    "path": "/laika",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\laika.vue",
+    "chunkName": "pages/laika",
+    "_name": "_21b987ad"
+  },
+  {
+    "name": "leo",
+    "path": "/leo",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\leo.vue",
+    "chunkName": "pages/leo",
+    "_name": "_301ba899"
+  },
+  {
     "name": "molong",
     "path": "/molong",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\molong.vue",
@@ -21,11 +49,32 @@
     "_name": "_35401de6"
   },
   {
+    "name": "rakan",
+    "path": "/rakan",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\rakan.vue",
+    "chunkName": "pages/rakan",
+    "_name": "_167158e8"
+  },
+  {
     "name": "rerune",
     "path": "/rerune",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\rerune.vue",
     "chunkName": "pages/rerune",
     "_name": "_1d7fe58c"
+  },
+  {
+    "name": "suiki",
+    "path": "/suiki",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\suiki.vue",
+    "chunkName": "pages/suiki",
+    "_name": "_4da0ce28"
+  },
+  {
+    "name": "xingzhe",
+    "path": "/xingzhe",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\xingzhe.vue",
+    "chunkName": "pages/xingzhe",
+    "_name": "_08b107d0"
   },
   {
     "name": "index",

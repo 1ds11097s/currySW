@@ -43,7 +43,7 @@ module.exports =
 /******/
 /******/ 		// "0" is the signal for "already loaded"
 /******/ 		if(installedChunks[chunkId] !== 0) {
-/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/belial","4":"pages/index","5":"pages/molong","6":"pages/monsters","7":"pages/rerune"}[chunkId]||chunkId) + ".js");
+/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/belial","4":"pages/index","5":"pages/josephine","6":"pages/juno","7":"pages/laika","8":"pages/leo","9":"pages/molong","10":"pages/monsters","11":"pages/rakan","12":"pages/rerune","13":"pages/suiki","14":"pages/xingzhe"}[chunkId]||chunkId) + ".js");
 /******/ 			var moreModules = chunk.modules, chunkIds = chunk.ids;
 /******/ 			for(var moduleId in moreModules) {
 /******/ 				modules[moduleId] = moreModules[moduleId];
@@ -5645,10 +5645,17 @@ function shouldScrollToTop(route) {
 
 
 const _a66a6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/belial */ 3).then(__webpack_require__.bind(null, 94)));
-const _49ecebeb = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 5).then(__webpack_require__.bind(null, 95)));
-const _35401de6 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 6).then(__webpack_require__.bind(null, 96)));
-const _1d7fe58c = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 7).then(__webpack_require__.bind(null, 97)));
-const _cc393ad6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 4).then(__webpack_require__.bind(null, 98)));
+const _3885abb4 = () => interopDefault(__webpack_require__.e(/* import() | pages/josephine */ 5).then(__webpack_require__.bind(null, 95)));
+const _53b92f59 = () => interopDefault(__webpack_require__.e(/* import() | pages/juno */ 6).then(__webpack_require__.bind(null, 96)));
+const _21b987ad = () => interopDefault(__webpack_require__.e(/* import() | pages/laika */ 7).then(__webpack_require__.bind(null, 97)));
+const _301ba899 = () => interopDefault(__webpack_require__.e(/* import() | pages/leo */ 8).then(__webpack_require__.bind(null, 98)));
+const _49ecebeb = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 9).then(__webpack_require__.bind(null, 99)));
+const _35401de6 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 10).then(__webpack_require__.bind(null, 100)));
+const _167158e8 = () => interopDefault(__webpack_require__.e(/* import() | pages/rakan */ 11).then(__webpack_require__.bind(null, 101)));
+const _1d7fe58c = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 12).then(__webpack_require__.bind(null, 102)));
+const _4da0ce28 = () => interopDefault(__webpack_require__.e(/* import() | pages/suiki */ 13).then(__webpack_require__.bind(null, 103)));
+const _08b107d0 = () => interopDefault(__webpack_require__.e(/* import() | pages/xingzhe */ 14).then(__webpack_require__.bind(null, 104)));
+const _cc393ad6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 4).then(__webpack_require__.bind(null, 105)));
 
 const emptyFn = () => {};
 external_vue_default.a.use(external_vue_router_default.a);
@@ -5663,6 +5670,22 @@ const routerOptions = {
     component: _a66a6910,
     name: "belial"
   }, {
+    path: "/josephine",
+    component: _3885abb4,
+    name: "josephine"
+  }, {
+    path: "/juno",
+    component: _53b92f59,
+    name: "juno"
+  }, {
+    path: "/laika",
+    component: _21b987ad,
+    name: "laika"
+  }, {
+    path: "/leo",
+    component: _301ba899,
+    name: "leo"
+  }, {
     path: "/molong",
     component: _49ecebeb,
     name: "molong"
@@ -5671,9 +5694,21 @@ const routerOptions = {
     component: _35401de6,
     name: "monsters"
   }, {
+    path: "/rakan",
+    component: _167158e8,
+    name: "rakan"
+  }, {
     path: "/rerune",
     component: _1d7fe58c,
     name: "rerune"
+  }, {
+    path: "/suiki",
+    component: _4da0ce28,
+    name: "suiki"
+  }, {
+    path: "/xingzhe",
+    component: _08b107d0,
+    name: "xingzhe"
   }, {
     path: "/",
     component: _cc393ad6,
@@ -6416,8 +6451,8 @@ const layouts = {
 // CONCATENATED MODULE: ./.nuxt/components/index.js
 const components_Footer = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 23)).then(c => wrapFunctional(c.default || c));
 const components_Header = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 22)).then(c => wrapFunctional(c.default || c));
-const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 100)).then(c => wrapFunctional(c.default || c));
-const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 99)).then(c => wrapFunctional(c.default || c));
+const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 107)).then(c => wrapFunctional(c.default || c));
+const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 106)).then(c => wrapFunctional(c.default || c));
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
