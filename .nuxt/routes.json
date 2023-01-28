@@ -7,6 +7,34 @@
     "_name": "_a66a6910"
   },
   {
+    "name": "bolverk",
+    "path": "/bolverk",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\bolverk.vue",
+    "chunkName": "pages/bolverk",
+    "_name": "_c225882c"
+  },
+  {
+    "name": "chow",
+    "path": "/chow",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\chow.vue",
+    "chunkName": "pages/chow",
+    "_name": "_61f4f0cc"
+  },
+  {
+    "name": "fengyan",
+    "path": "/fengyan",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\fengyan.vue",
+    "chunkName": "pages/fengyan",
+    "_name": "_7f1d5db1"
+  },
+  {
+    "name": "fuuki",
+    "path": "/fuuki",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\fuuki.vue",
+    "chunkName": "pages/fuuki",
+    "_name": "_40f1f227"
+  },
+  {
     "name": "josephine",
     "path": "/josephine",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\josephine.vue",
@@ -19,6 +47,20 @@
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\juno.vue",
     "chunkName": "pages/juno",
     "_name": "_53b92f59"
+  },
+  {
+    "name": "kaki",
+    "path": "/kaki",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\kaki.vue",
+    "chunkName": "pages/kaki",
+    "_name": "_d7aab77e"
+  },
+  {
+    "name": "karnal",
+    "path": "/karnal",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\karnal.vue",
+    "chunkName": "pages/karnal",
+    "_name": "_6a143f0a"
   },
   {
     "name": "laika",
@@ -68,6 +110,13 @@
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\suiki.vue",
     "chunkName": "pages/suiki",
     "_name": "_4da0ce28"
+  },
+  {
+    "name": "woosa",
+    "path": "/woosa",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\woosa.vue",
+    "chunkName": "pages/woosa",
+    "_name": "_7a06e968"
   },
   {
     "name": "xingzhe",

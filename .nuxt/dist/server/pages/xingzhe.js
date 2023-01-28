@@ -1,7 +1,7 @@
-exports.ids = [14];
+exports.ids = [21];
 exports.modules = {
 
-/***/ 104:
+/***/ 111:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -23,14 +23,14 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=template&id=0b01af66&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=template&id=5ba0d684&
 
 
 
 
 
 
-var xingzhevue_type_template_id_0b01af66_render = function render() {
+var xingzhevue_type_template_id_5ba0d684_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -57,7 +57,7 @@ var xingzhevue_type_template_id_0b01af66_render = function render() {
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("Xing Zhe")]), _vm._v(" "), _c(VRow["a" /* default */], {
+  }, [_vm._v("Xing Zhe(Wind Monkey King)")]), _vm._v(" "), _c(VRow["a" /* default */], {
     staticClass: "main-banner-area rounded-xl pa-4 mb-4",
     attrs: {
       "justify": "center"
@@ -240,14 +240,14 @@ var xingzhevue_type_template_id_0b01af66_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/xingzhe.vue?vue&type=template&id=0b01af66&
+// CONCATENATED MODULE: ./pages/xingzhe.vue?vue&type=template&id=5ba0d684&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=script&lang=js&
 /* harmony default export */ var xingzhevue_type_script_lang_js_ = ({
   layout: "default",
   head() {
     return {
-      title: "Xing Zhe - Curry's Monsters Report【Summoners War】"
+      title: "Xing Zhe(Wind Monkey King) - Monsters Report【Summoners War】"
     };
   }
 });
@@ -266,7 +266,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_xingzhevue_type_script_lang_js_,
-  xingzhevue_type_template_id_0b01af66_render,
+  xingzhevue_type_template_id_5ba0d684_render,
   staticRenderFns,
   false,
   null,

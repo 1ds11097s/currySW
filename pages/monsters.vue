@@ -13,6 +13,13 @@
           <v-btn text color="blue" class="font-weight-bold" href="/rakan">Rakan(Fire Chimera)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/laika">Laika(Fire Dragon Knight)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/xingzhe">Xing Zhe(Wind Monkey King)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/woosa">Woosa(Water Pioneer)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/kaki">Kaki(Fire Onimusha)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/fuuki">Fuuki(Wind Onimusha)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/bolverk">Bolverk(Water Emperor)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/karnal">Karnal(Fire Slayer)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/fengyan">Feng Yan(Wind Panda Warrior)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/chow">Chow(Water Dragon Knight)</v-btn>
         </v-col>
       </v-row>
       <template>

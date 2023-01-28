@@ -1,7 +1,7 @@
-exports.ids = [11];
+exports.ids = [17];
 exports.modules = {
 
-/***/ 101:
+/***/ 107:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -23,14 +23,14 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rakan.vue?vue&type=template&id=13eb4782&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rakan.vue?vue&type=template&id=0181ed4f&
 
 
 
 
 
 
-var rakanvue_type_template_id_13eb4782_render = function render() {
+var rakanvue_type_template_id_0181ed4f_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -57,7 +57,7 @@ var rakanvue_type_template_id_13eb4782_render = function render() {
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("Rakan")]), _vm._v(" "), _c(VRow["a" /* default */], {
+  }, [_vm._v("Rakan(Fire Chimera)")]), _vm._v(" "), _c(VRow["a" /* default */], {
     staticClass: "main-banner-area rounded-xl pa-4 mb-4",
     attrs: {
       "justify": "center"
@@ -240,14 +240,14 @@ var rakanvue_type_template_id_13eb4782_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/rakan.vue?vue&type=template&id=13eb4782&
+// CONCATENATED MODULE: ./pages/rakan.vue?vue&type=template&id=0181ed4f&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rakan.vue?vue&type=script&lang=js&
 /* harmony default export */ var rakanvue_type_script_lang_js_ = ({
   layout: "default",
   head() {
     return {
-      title: "Rakan - Curry's Monsters Report【Summoners War】"
+      title: "Rakan(Fire Chimera) - Monsters Report【Summoners War】"
     };
   }
 });
@@ -266,7 +266,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_rakanvue_type_script_lang_js_,
-  rakanvue_type_template_id_13eb4782_render,
+  rakanvue_type_template_id_0181ed4f_render,
   staticRenderFns,
   false,
   null,

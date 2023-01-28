@@ -52,14 +52,14 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=df4e4b94&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=79c569b7&
 
 
 
 
 
 
-var belialvue_type_template_id_df4e4b94_render = function render() {
+var belialvue_type_template_id_79c569b7_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -86,7 +86,7 @@ var belialvue_type_template_id_df4e4b94_render = function render() {
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("Belial")]), _vm._v(" "), _c(VRow["a" /* default */], {
+  }, [_vm._v("Belial(Water Demon)")]), _vm._v(" "), _c(VRow["a" /* default */], {
     staticClass: "main-banner-area rounded-xl pa-4 mb-4",
     attrs: {
       "justify": "center"
@@ -269,14 +269,14 @@ var belialvue_type_template_id_df4e4b94_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=df4e4b94&
+// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=79c569b7&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=script&lang=js&
 /* harmony default export */ var belialvue_type_script_lang_js_ = ({
   layout: "default",
   head() {
     return {
-      title: "Belial - Curry's Monsters Report【Summoners War】"
+      title: "Belial(Water Demon) - Monsters Report【Summoners War】"
     };
   }
 });
@@ -295,7 +295,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_belialvue_type_script_lang_js_,
-  belialvue_type_template_id_df4e4b94_render,
+  belialvue_type_template_id_79c569b7_render,
   staticRenderFns,
   false,
   null,

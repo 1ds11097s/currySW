@@ -2,7 +2,7 @@
   <v-row justify="center" class="main-area rounded-xl py-10">
     <v-col cols="11" class="rounded-xl">
       <v-img src="rakan.png" style="position:relative" width="100" height="100"></v-img>
-      <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Rakan</div>
+      <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Rakan(Fire Chimera)</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
           <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SET</div>
@@ -76,7 +76,7 @@ export default {
   layout: "default",
   head() {
     return {
-      title: "Rakan - Curry's Monsters Report【Summoners War】",
+      title: "Rakan(Fire Chimera) - Monsters Report【Summoners War】",
     }
   },
 }

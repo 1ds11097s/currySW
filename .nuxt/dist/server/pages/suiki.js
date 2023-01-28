@@ -1,7 +1,7 @@
-exports.ids = [13];
+exports.ids = [19];
 exports.modules = {
 
-/***/ 103:
+/***/ 109:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -23,14 +23,14 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/suiki.vue?vue&type=template&id=16e8f0a2&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/suiki.vue?vue&type=template&id=4bfe40fc&
 
 
 
 
 
 
-var suikivue_type_template_id_16e8f0a2_render = function render() {
+var suikivue_type_template_id_4bfe40fc_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -57,7 +57,7 @@ var suikivue_type_template_id_16e8f0a2_render = function render() {
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("Suiki")]), _vm._v(" "), _c(VRow["a" /* default */], {
+  }, [_vm._v("Suiki(Water Onimusha)")]), _vm._v(" "), _c(VRow["a" /* default */], {
     staticClass: "main-banner-area rounded-xl pa-4 mb-4",
     attrs: {
       "justify": "center"
@@ -240,14 +240,14 @@ var suikivue_type_template_id_16e8f0a2_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/suiki.vue?vue&type=template&id=16e8f0a2&
+// CONCATENATED MODULE: ./pages/suiki.vue?vue&type=template&id=4bfe40fc&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/suiki.vue?vue&type=script&lang=js&
 /* harmony default export */ var suikivue_type_script_lang_js_ = ({
   layout: "default",
   head() {
     return {
-      title: "Suiki - Curry's Monsters Report【Summoners War】"
+      title: "Suiki(Water Onimusha) - Monsters Report【Summoners War】"
     };
   }
 });
@@ -266,7 +266,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_suikivue_type_script_lang_js_,
-  suikivue_type_template_id_16e8f0a2_render,
+  suikivue_type_template_id_4bfe40fc_render,
   staticRenderFns,
   false,
   null,
