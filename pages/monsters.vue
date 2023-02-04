@@ -20,6 +20,13 @@
           <v-btn text color="blue" class="font-weight-bold" href="/karnal">Karnal(Fire Slayer)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/fengyan">Feng Yan(Wind Panda Warrior)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/chow">Chow(Water Dragon Knight)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/haegang">Haegang(Water Art Master)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/meihouwang">Mei Hou Wang(Fire Monkey King)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/ophilia">Ophilia(Fire Paladin)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/praha">Praha(Water Oracle)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/seara">Seara(Wind Oracle)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/velajuel">Velajuel(Fire Ark Angel)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/perna">Perna(Fire Phoenix)</v-btn>
         </v-col>
       </v-row>
       <template>
