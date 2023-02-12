@@ -6,10 +6,15 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _a66a6910 = () => interopDefault(import('..\\pages\\belial.vue' /* webpackChunkName: "pages/belial" */))
 const _c225882c = () => interopDefault(import('..\\pages\\bolverk.vue' /* webpackChunkName: "pages/bolverk" */))
+const _e5b6f2ac = () => interopDefault(import('..\\pages\\camilla.vue' /* webpackChunkName: "pages/camilla" */))
 const _61f4f0cc = () => interopDefault(import('..\\pages\\chow.vue' /* webpackChunkName: "pages/chow" */))
+const _1c8c2672 = () => interopDefault(import('..\\pages\\diana.vue' /* webpackChunkName: "pages/diana" */))
+const _928a4b84 = () => interopDefault(import('..\\pages\\elsharion.vue' /* webpackChunkName: "pages/elsharion" */))
 const _7f1d5db1 = () => interopDefault(import('..\\pages\\fengyan.vue' /* webpackChunkName: "pages/fengyan" */))
 const _40f1f227 = () => interopDefault(import('..\\pages\\fuuki.vue' /* webpackChunkName: "pages/fuuki" */))
+const _b9577156 = () => interopDefault(import('..\\pages\\giou.vue' /* webpackChunkName: "pages/giou" */))
 const _7ce035bc = () => interopDefault(import('..\\pages\\haegang.vue' /* webpackChunkName: "pages/haegang" */))
+const _af02fa94 = () => interopDefault(import('..\\pages\\helena.vue' /* webpackChunkName: "pages/helena" */))
 const _3885abb4 = () => interopDefault(import('..\\pages\\josephine.vue' /* webpackChunkName: "pages/josephine" */))
 const _53b92f59 = () => interopDefault(import('..\\pages\\juno.vue' /* webpackChunkName: "pages/juno" */))
 const _d7aab77e = () => interopDefault(import('..\\pages\\kaki.vue' /* webpackChunkName: "pages/kaki" */))
@@ -23,9 +28,11 @@ const _249458b6 = () => interopDefault(import('..\\pages\\ophilia.vue' /* webpac
 const _18f2d35a = () => interopDefault(import('..\\pages\\perna.vue' /* webpackChunkName: "pages/perna" */))
 const _a7224aca = () => interopDefault(import('..\\pages\\praha.vue' /* webpackChunkName: "pages/praha" */))
 const _167158e8 = () => interopDefault(import('..\\pages\\rakan.vue' /* webpackChunkName: "pages/rakan" */))
+const _6b52de5a = () => interopDefault(import('..\\pages\\raki.vue' /* webpackChunkName: "pages/raki" */))
 const _1d7fe58c = () => interopDefault(import('..\\pages\\rerune.vue' /* webpackChunkName: "pages/rerune" */))
 const _33dd5681 = () => interopDefault(import('..\\pages\\seara.vue' /* webpackChunkName: "pages/seara" */))
 const _4da0ce28 = () => interopDefault(import('..\\pages\\suiki.vue' /* webpackChunkName: "pages/suiki" */))
+const _7041e53e = () => interopDefault(import('..\\pages\\susano.vue' /* webpackChunkName: "pages/susano" */))
 const _7d339123 = () => interopDefault(import('..\\pages\\velajuel.vue' /* webpackChunkName: "pages/velajuel" */))
 const _7a06e968 = () => interopDefault(import('..\\pages\\woosa.vue' /* webpackChunkName: "pages/woosa" */))
 const _08b107d0 = () => interopDefault(import('..\\pages\\xingzhe.vue' /* webpackChunkName: "pages/xingzhe" */))
@@ -51,9 +58,21 @@ export const routerOptions = {
     component: _c225882c,
     name: "bolverk"
   }, {
+    path: "/camilla",
+    component: _e5b6f2ac,
+    name: "camilla"
+  }, {
     path: "/chow",
     component: _61f4f0cc,
     name: "chow"
+  }, {
+    path: "/diana",
+    component: _1c8c2672,
+    name: "diana"
+  }, {
+    path: "/elsharion",
+    component: _928a4b84,
+    name: "elsharion"
   }, {
     path: "/fengyan",
     component: _7f1d5db1,
@@ -63,9 +82,17 @@ export const routerOptions = {
     component: _40f1f227,
     name: "fuuki"
   }, {
+    path: "/giou",
+    component: _b9577156,
+    name: "giou"
+  }, {
     path: "/haegang",
     component: _7ce035bc,
     name: "haegang"
+  }, {
+    path: "/helena",
+    component: _af02fa94,
+    name: "helena"
   }, {
     path: "/josephine",
     component: _3885abb4,
@@ -119,6 +146,10 @@ export const routerOptions = {
     component: _167158e8,
     name: "rakan"
   }, {
+    path: "/raki",
+    component: _6b52de5a,
+    name: "raki"
+  }, {
     path: "/rerune",
     component: _1d7fe58c,
     name: "rerune"
@@ -130,6 +161,10 @@ export const routerOptions = {
     path: "/suiki",
     component: _4da0ce28,
     name: "suiki"
+  }, {
+    path: "/susano",
+    component: _7041e53e,
+    name: "susano"
   }, {
     path: "/velajuel",
     component: _7d339123,

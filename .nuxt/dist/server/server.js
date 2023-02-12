@@ -43,7 +43,7 @@ module.exports =
 /******/
 /******/ 		// "0" is the signal for "already loaded"
 /******/ 		if(installedChunks[chunkId] !== 0) {
-/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/belial","4":"pages/bolverk","5":"pages/chow","6":"pages/fengyan","7":"pages/fuuki","8":"pages/haegang","9":"pages/index","10":"pages/josephine","11":"pages/juno","12":"pages/kaki","13":"pages/karnal","14":"pages/laika","15":"pages/leo","16":"pages/meihouwang","17":"pages/molong","18":"pages/monsters","19":"pages/ophilia","20":"pages/perna","21":"pages/praha","22":"pages/rakan","23":"pages/rerune","24":"pages/seara","25":"pages/suiki","26":"pages/velajuel","27":"pages/woosa","28":"pages/xingzhe"}[chunkId]||chunkId) + ".js");
+/******/ 			var chunk = require("./" + ({"1":"components/nuxt-logo","2":"components/tutorial","3":"pages/belial","4":"pages/bolverk","5":"pages/camilla","6":"pages/chow","7":"pages/diana","8":"pages/elsharion","9":"pages/fengyan","10":"pages/fuuki","11":"pages/giou","12":"pages/haegang","13":"pages/helena","14":"pages/index","15":"pages/josephine","16":"pages/juno","17":"pages/kaki","18":"pages/karnal","19":"pages/laika","20":"pages/leo","21":"pages/meihouwang","22":"pages/molong","23":"pages/monsters","24":"pages/ophilia","25":"pages/perna","26":"pages/praha","27":"pages/rakan","28":"pages/raki","29":"pages/rerune","30":"pages/seara","31":"pages/suiki","32":"pages/susano","33":"pages/velajuel","34":"pages/woosa","35":"pages/xingzhe"}[chunkId]||chunkId) + ".js");
 /******/ 			var moreModules = chunk.modules, chunkIds = chunk.ids;
 /******/ 			for(var moduleId in moreModules) {
 /******/ 				modules[moduleId] = moreModules[moduleId];
@@ -5646,30 +5646,37 @@ function shouldScrollToTop(route) {
 
 const _a66a6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/belial */ 3).then(__webpack_require__.bind(null, 94)));
 const _c225882c = () => interopDefault(__webpack_require__.e(/* import() | pages/bolverk */ 4).then(__webpack_require__.bind(null, 95)));
-const _61f4f0cc = () => interopDefault(__webpack_require__.e(/* import() | pages/chow */ 5).then(__webpack_require__.bind(null, 96)));
-const _7f1d5db1 = () => interopDefault(__webpack_require__.e(/* import() | pages/fengyan */ 6).then(__webpack_require__.bind(null, 97)));
-const _40f1f227 = () => interopDefault(__webpack_require__.e(/* import() | pages/fuuki */ 7).then(__webpack_require__.bind(null, 98)));
-const _7ce035bc = () => interopDefault(__webpack_require__.e(/* import() | pages/haegang */ 8).then(__webpack_require__.bind(null, 99)));
-const _3885abb4 = () => interopDefault(__webpack_require__.e(/* import() | pages/josephine */ 10).then(__webpack_require__.bind(null, 100)));
-const _53b92f59 = () => interopDefault(__webpack_require__.e(/* import() | pages/juno */ 11).then(__webpack_require__.bind(null, 101)));
-const _d7aab77e = () => interopDefault(__webpack_require__.e(/* import() | pages/kaki */ 12).then(__webpack_require__.bind(null, 102)));
-const _6a143f0a = () => interopDefault(__webpack_require__.e(/* import() | pages/karnal */ 13).then(__webpack_require__.bind(null, 103)));
-const _21b987ad = () => interopDefault(__webpack_require__.e(/* import() | pages/laika */ 14).then(__webpack_require__.bind(null, 104)));
-const _301ba899 = () => interopDefault(__webpack_require__.e(/* import() | pages/leo */ 15).then(__webpack_require__.bind(null, 105)));
-const _429651ad = () => interopDefault(__webpack_require__.e(/* import() | pages/meihouwang */ 16).then(__webpack_require__.bind(null, 106)));
-const _49ecebeb = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 17).then(__webpack_require__.bind(null, 107)));
-const _35401de6 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 18).then(__webpack_require__.bind(null, 108)));
-const _249458b6 = () => interopDefault(__webpack_require__.e(/* import() | pages/ophilia */ 19).then(__webpack_require__.bind(null, 109)));
-const _18f2d35a = () => interopDefault(__webpack_require__.e(/* import() | pages/perna */ 20).then(__webpack_require__.bind(null, 110)));
-const _a7224aca = () => interopDefault(__webpack_require__.e(/* import() | pages/praha */ 21).then(__webpack_require__.bind(null, 111)));
-const _167158e8 = () => interopDefault(__webpack_require__.e(/* import() | pages/rakan */ 22).then(__webpack_require__.bind(null, 112)));
-const _1d7fe58c = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 23).then(__webpack_require__.bind(null, 113)));
-const _33dd5681 = () => interopDefault(__webpack_require__.e(/* import() | pages/seara */ 24).then(__webpack_require__.bind(null, 114)));
-const _4da0ce28 = () => interopDefault(__webpack_require__.e(/* import() | pages/suiki */ 25).then(__webpack_require__.bind(null, 115)));
-const _7d339123 = () => interopDefault(__webpack_require__.e(/* import() | pages/velajuel */ 26).then(__webpack_require__.bind(null, 116)));
-const _7a06e968 = () => interopDefault(__webpack_require__.e(/* import() | pages/woosa */ 27).then(__webpack_require__.bind(null, 117)));
-const _08b107d0 = () => interopDefault(__webpack_require__.e(/* import() | pages/xingzhe */ 28).then(__webpack_require__.bind(null, 118)));
-const _cc393ad6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 9).then(__webpack_require__.bind(null, 119)));
+const _e5b6f2ac = () => interopDefault(__webpack_require__.e(/* import() | pages/camilla */ 5).then(__webpack_require__.bind(null, 96)));
+const _61f4f0cc = () => interopDefault(__webpack_require__.e(/* import() | pages/chow */ 6).then(__webpack_require__.bind(null, 97)));
+const _1c8c2672 = () => interopDefault(__webpack_require__.e(/* import() | pages/diana */ 7).then(__webpack_require__.bind(null, 98)));
+const _928a4b84 = () => interopDefault(__webpack_require__.e(/* import() | pages/elsharion */ 8).then(__webpack_require__.bind(null, 99)));
+const _7f1d5db1 = () => interopDefault(__webpack_require__.e(/* import() | pages/fengyan */ 9).then(__webpack_require__.bind(null, 100)));
+const _40f1f227 = () => interopDefault(__webpack_require__.e(/* import() | pages/fuuki */ 10).then(__webpack_require__.bind(null, 101)));
+const _b9577156 = () => interopDefault(__webpack_require__.e(/* import() | pages/giou */ 11).then(__webpack_require__.bind(null, 102)));
+const _7ce035bc = () => interopDefault(__webpack_require__.e(/* import() | pages/haegang */ 12).then(__webpack_require__.bind(null, 103)));
+const _af02fa94 = () => interopDefault(__webpack_require__.e(/* import() | pages/helena */ 13).then(__webpack_require__.bind(null, 104)));
+const _3885abb4 = () => interopDefault(__webpack_require__.e(/* import() | pages/josephine */ 15).then(__webpack_require__.bind(null, 105)));
+const _53b92f59 = () => interopDefault(__webpack_require__.e(/* import() | pages/juno */ 16).then(__webpack_require__.bind(null, 106)));
+const _d7aab77e = () => interopDefault(__webpack_require__.e(/* import() | pages/kaki */ 17).then(__webpack_require__.bind(null, 107)));
+const _6a143f0a = () => interopDefault(__webpack_require__.e(/* import() | pages/karnal */ 18).then(__webpack_require__.bind(null, 108)));
+const _21b987ad = () => interopDefault(__webpack_require__.e(/* import() | pages/laika */ 19).then(__webpack_require__.bind(null, 109)));
+const _301ba899 = () => interopDefault(__webpack_require__.e(/* import() | pages/leo */ 20).then(__webpack_require__.bind(null, 110)));
+const _429651ad = () => interopDefault(__webpack_require__.e(/* import() | pages/meihouwang */ 21).then(__webpack_require__.bind(null, 111)));
+const _49ecebeb = () => interopDefault(__webpack_require__.e(/* import() | pages/molong */ 22).then(__webpack_require__.bind(null, 112)));
+const _35401de6 = () => interopDefault(__webpack_require__.e(/* import() | pages/monsters */ 23).then(__webpack_require__.bind(null, 113)));
+const _249458b6 = () => interopDefault(__webpack_require__.e(/* import() | pages/ophilia */ 24).then(__webpack_require__.bind(null, 114)));
+const _18f2d35a = () => interopDefault(__webpack_require__.e(/* import() | pages/perna */ 25).then(__webpack_require__.bind(null, 115)));
+const _a7224aca = () => interopDefault(__webpack_require__.e(/* import() | pages/praha */ 26).then(__webpack_require__.bind(null, 116)));
+const _167158e8 = () => interopDefault(__webpack_require__.e(/* import() | pages/rakan */ 27).then(__webpack_require__.bind(null, 117)));
+const _6b52de5a = () => interopDefault(__webpack_require__.e(/* import() | pages/raki */ 28).then(__webpack_require__.bind(null, 118)));
+const _1d7fe58c = () => interopDefault(__webpack_require__.e(/* import() | pages/rerune */ 29).then(__webpack_require__.bind(null, 119)));
+const _33dd5681 = () => interopDefault(__webpack_require__.e(/* import() | pages/seara */ 30).then(__webpack_require__.bind(null, 120)));
+const _4da0ce28 = () => interopDefault(__webpack_require__.e(/* import() | pages/suiki */ 31).then(__webpack_require__.bind(null, 121)));
+const _7041e53e = () => interopDefault(__webpack_require__.e(/* import() | pages/susano */ 32).then(__webpack_require__.bind(null, 122)));
+const _7d339123 = () => interopDefault(__webpack_require__.e(/* import() | pages/velajuel */ 33).then(__webpack_require__.bind(null, 123)));
+const _7a06e968 = () => interopDefault(__webpack_require__.e(/* import() | pages/woosa */ 34).then(__webpack_require__.bind(null, 124)));
+const _08b107d0 = () => interopDefault(__webpack_require__.e(/* import() | pages/xingzhe */ 35).then(__webpack_require__.bind(null, 125)));
+const _cc393ad6 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 14).then(__webpack_require__.bind(null, 126)));
 
 const emptyFn = () => {};
 external_vue_default.a.use(external_vue_router_default.a);
@@ -5688,9 +5695,21 @@ const routerOptions = {
     component: _c225882c,
     name: "bolverk"
   }, {
+    path: "/camilla",
+    component: _e5b6f2ac,
+    name: "camilla"
+  }, {
     path: "/chow",
     component: _61f4f0cc,
     name: "chow"
+  }, {
+    path: "/diana",
+    component: _1c8c2672,
+    name: "diana"
+  }, {
+    path: "/elsharion",
+    component: _928a4b84,
+    name: "elsharion"
   }, {
     path: "/fengyan",
     component: _7f1d5db1,
@@ -5700,9 +5719,17 @@ const routerOptions = {
     component: _40f1f227,
     name: "fuuki"
   }, {
+    path: "/giou",
+    component: _b9577156,
+    name: "giou"
+  }, {
     path: "/haegang",
     component: _7ce035bc,
     name: "haegang"
+  }, {
+    path: "/helena",
+    component: _af02fa94,
+    name: "helena"
   }, {
     path: "/josephine",
     component: _3885abb4,
@@ -5756,6 +5783,10 @@ const routerOptions = {
     component: _167158e8,
     name: "rakan"
   }, {
+    path: "/raki",
+    component: _6b52de5a,
+    name: "raki"
+  }, {
     path: "/rerune",
     component: _1d7fe58c,
     name: "rerune"
@@ -5767,6 +5798,10 @@ const routerOptions = {
     path: "/suiki",
     component: _4da0ce28,
     name: "suiki"
+  }, {
+    path: "/susano",
+    component: _7041e53e,
+    name: "susano"
   }, {
     path: "/velajuel",
     component: _7d339123,
@@ -6521,8 +6556,8 @@ const layouts = {
 // CONCATENATED MODULE: ./.nuxt/components/index.js
 const components_Footer = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 23)).then(c => wrapFunctional(c.default || c));
 const components_Header = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 22)).then(c => wrapFunctional(c.default || c));
-const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 121)).then(c => wrapFunctional(c.default || c));
-const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 120)).then(c => wrapFunctional(c.default || c));
+const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 128)).then(c => wrapFunctional(c.default || c));
+const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 127)).then(c => wrapFunctional(c.default || c));
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

@@ -1,7 +1,7 @@
-exports.ids = [18];
+exports.ids = [23];
 exports.modules = {
 
-/***/ 108:
+/***/ 113:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17,12 +17,12 @@ var VCol = __webpack_require__(88);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=template&id=3c16a9d8&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=template&id=62930c54&
 
 
 
 
-var monstersvue_type_template_id_3c16a9d8_render = function render() {
+var monstersvue_type_template_id_62930c54_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -213,7 +213,56 @@ var monstersvue_type_template_id_3c16a9d8_render = function render() {
       "color": "blue",
       "href": "/perna"
     }
-  }, [_vm._v("Perna(Fire Phoenix)")])], 1)], 1), _vm._v(" "), [_c('adsbygoogle', {
+  }, [_vm._v("Perna(Fire Phoenix)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/raki"
+    }
+  }, [_vm._v("Raki(Fire HellLady)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/giou"
+    }
+  }, [_vm._v("Giou(Wind Onmyouji)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/camilla"
+    }
+  }, [_vm._v("Camilla(Water Valkyrja)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/elsharion"
+    }
+  }, [_vm._v("Elsharion(Light Ifrit)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/susano"
+    }
+  }, [_vm._v("Susano(Water Ninja)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/diana"
+    }
+  }, [_vm._v("Diana(Wind Unicorn)")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/helena"
+    }
+  }, [_vm._v("Helena(Fire Unicorn)")])], 1)], 1), _vm._v(" "), [_c('adsbygoogle', {
     attrs: {
       "ad-slot": "9249275840"
     }
@@ -221,7 +270,7 @@ var monstersvue_type_template_id_3c16a9d8_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/monsters.vue?vue&type=template&id=3c16a9d8&
+// CONCATENATED MODULE: ./pages/monsters.vue?vue&type=template&id=62930c54&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=script&lang=js&
 /* harmony default export */ var monstersvue_type_script_lang_js_ = ({
@@ -242,7 +291,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_monstersvue_type_script_lang_js_,
-  monstersvue_type_template_id_3c16a9d8_render,
+  monstersvue_type_template_id_62930c54_render,
   staticRenderFns,
   false,
   null,

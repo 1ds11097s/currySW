@@ -1,4 +1,4 @@
-exports.ids = [5];
+exports.ids = [6];
 exports.modules = {
 
 /***/ 81:
@@ -30,7 +30,7 @@ const VCardTitle = Object(_util_helpers__WEBPACK_IMPORTED_MODULE_1__[/* createSi
 
 /***/ }),
 
-/***/ 96:
+/***/ 97:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

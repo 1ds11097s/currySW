@@ -27,6 +27,13 @@
           <v-btn text color="blue" class="font-weight-bold" href="/seara">Seara(Wind Oracle)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/velajuel">Velajuel(Fire Ark Angel)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/perna">Perna(Fire Phoenix)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/raki">Raki(Fire HellLady)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/giou">Giou(Wind Onmyouji)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/camilla">Camilla(Water Valkyrja)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/elsharion">Elsharion(Light Ifrit)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/susano">Susano(Water Ninja)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/diana">Diana(Wind Unicorn)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/helena">Helena(Fire Unicorn)</v-btn>
         </v-col>
       </v-row>
       <template>

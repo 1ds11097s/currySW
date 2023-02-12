@@ -14,11 +14,32 @@
     "_name": "_c225882c"
   },
   {
+    "name": "camilla",
+    "path": "/camilla",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\camilla.vue",
+    "chunkName": "pages/camilla",
+    "_name": "_e5b6f2ac"
+  },
+  {
     "name": "chow",
     "path": "/chow",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\chow.vue",
     "chunkName": "pages/chow",
     "_name": "_61f4f0cc"
+  },
+  {
+    "name": "diana",
+    "path": "/diana",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\diana.vue",
+    "chunkName": "pages/diana",
+    "_name": "_1c8c2672"
+  },
+  {
+    "name": "elsharion",
+    "path": "/elsharion",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\elsharion.vue",
+    "chunkName": "pages/elsharion",
+    "_name": "_928a4b84"
   },
   {
     "name": "fengyan",
@@ -35,11 +56,25 @@
     "_name": "_40f1f227"
   },
   {
+    "name": "giou",
+    "path": "/giou",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\giou.vue",
+    "chunkName": "pages/giou",
+    "_name": "_b9577156"
+  },
+  {
     "name": "haegang",
     "path": "/haegang",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\haegang.vue",
     "chunkName": "pages/haegang",
     "_name": "_7ce035bc"
+  },
+  {
+    "name": "helena",
+    "path": "/helena",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\helena.vue",
+    "chunkName": "pages/helena",
+    "_name": "_af02fa94"
   },
   {
     "name": "josephine",
@@ -133,6 +168,13 @@
     "_name": "_167158e8"
   },
   {
+    "name": "raki",
+    "path": "/raki",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\raki.vue",
+    "chunkName": "pages/raki",
+    "_name": "_6b52de5a"
+  },
+  {
     "name": "rerune",
     "path": "/rerune",
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\rerune.vue",
@@ -152,6 +194,13 @@
     "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\suiki.vue",
     "chunkName": "pages/suiki",
     "_name": "_4da0ce28"
+  },
+  {
+    "name": "susano",
+    "path": "/susano",
+    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\susano.vue",
+    "chunkName": "pages/susano",
+    "_name": "_7041e53e"
   },
   {
     "name": "velajuel",
