@@ -36,10 +36,15 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxtjs/vuetify',
+    '@nuxtjs/google-gtag',
     ['@nuxtjs/google-adsense', {
       id: 'ca-pub-2823672209200755',
     }],
   ],
+  'google-gtag': {
+    id: "G-5W5DRSE42R",
+    debug: false
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

@@ -21,7 +21,7 @@ var components_VCard = __webpack_require__(81);
 var VCol = __webpack_require__(88);
 
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VImg/VImg.js + 2 modules
-var VImg = __webpack_require__(45);
+var VImg = __webpack_require__(46);
 
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
