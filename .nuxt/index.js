@@ -12,9 +12,9 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_32d80b64 from 'nuxt_plugin_plugin_32d80b64' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_plugin_e74ed734 from 'nuxt_plugin_plugin_e74ed734' // Source: .\\vuetify\\plugin.js (mode: 'all')
-import nuxt_plugin_adsbygoogle_dcfe7cb2 from 'nuxt_plugin_adsbygoogle_dcfe7cb2' // Source: .\\adsbygoogle.js (mode: 'all')
+import nuxt_plugin_plugin_5aad3d2a from 'nuxt_plugin_plugin_5aad3d2a' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_plugin_b45e6b2e from 'nuxt_plugin_plugin_b45e6b2e' // Source: .\\vuetify\\plugin.js (mode: 'all')
+import nuxt_plugin_adsbygoogle_77050284 from 'nuxt_plugin_adsbygoogle_77050284' // Source: .\\adsbygoogle.js (mode: 'all')
 import nuxt_plugin_ga_fb0a2534 from 'nuxt_plugin_ga_fb0a2534' // Source: ..\\plugins\\ga.js (mode: 'client')
 
 // Component: <ClientOnly>
@@ -44,7 +44,7 @@ Vue.component(Nuxt.name, Nuxt)
 
 Object.defineProperty(Vue.prototype, '$nuxt', {
   get() {
-    const globalNuxt = this.$root.$options.$nuxt
+    const globalNuxt = this.$root ? this.$root.$options.$nuxt : null
     if (process.client && !globalNuxt && typeof window !== 'undefined') {
       return window.$nuxt
     }
@@ -58,7 +58,8 @@ Vue.use(Meta, {"keyName":"head","attribute":"data-n-head","ssrAttribute":"data-n
 const defaultTransition = {"name":"page","mode":"out-in","appear":false,"appearClass":"appear","appearActiveClass":"appear-active","appearToClass":"appear-to"}
 
 async function createApp(ssrContext, config = {}) {
-  const router = await createRouter(ssrContext, config)
+  const store = null
+  const router = await createRouter(ssrContext, config, { store })
 
   // Create Root instance
 
@@ -130,6 +131,7 @@ async function createApp(ssrContext, config = {}) {
     req: ssrContext ? ssrContext.req : undefined,
     res: ssrContext ? ssrContext.res : undefined,
     beforeRenderFns: ssrContext ? ssrContext.beforeRenderFns : undefined,
+    beforeSerializeFns: ssrContext ? ssrContext.beforeSerializeFns : undefined,
     ssrContext
   })
 
@@ -179,16 +181,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_32d80b64 === 'function') {
-    await nuxt_plugin_plugin_32d80b64(app.context, inject)
+  if (typeof nuxt_plugin_plugin_5aad3d2a === 'function') {
+    await nuxt_plugin_plugin_5aad3d2a(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_plugin_e74ed734 === 'function') {
-    await nuxt_plugin_plugin_e74ed734(app.context, inject)
+  if (typeof nuxt_plugin_plugin_b45e6b2e === 'function') {
+    await nuxt_plugin_plugin_b45e6b2e(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_adsbygoogle_dcfe7cb2 === 'function') {
-    await nuxt_plugin_adsbygoogle_dcfe7cb2(app.context, inject)
+  if (typeof nuxt_plugin_adsbygoogle_77050284 === 'function') {
+    await nuxt_plugin_adsbygoogle_77050284(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_ga_fb0a2534 === 'function') {

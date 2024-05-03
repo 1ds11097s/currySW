@@ -26,7 +26,7 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=e459ef80&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=e459ef80
 
 
 
@@ -838,14 +838,14 @@ var lib_vue_loader_options_pagesvue_type_template_id_e459ef80_render = function 
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=e459ef80&
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=e459ef80
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js&
-/* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js_ = ({
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js
+/* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js = ({
   layout: "default"
 });
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=script&lang=js&
- /* harmony default export */ var pagesvue_type_script_lang_js_ = (lib_vue_loader_options_pagesvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=script&lang=js
+ /* harmony default export */ var pagesvue_type_script_lang_js = (lib_vue_loader_options_pagesvue_type_script_lang_js); 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
 
@@ -858,13 +858,13 @@ var componentNormalizer = __webpack_require__(7);
 /* normalize component */
 
 var component = Object(componentNormalizer["a" /* default */])(
-  pagesvue_type_script_lang_js_,
+  pagesvue_type_script_lang_js,
   lib_vue_loader_options_pagesvue_type_template_id_e459ef80_render,
   staticRenderFns,
   false,
   null,
   null,
-  "54f2ec8a"
+  "58e3b09e"
   
 )
 

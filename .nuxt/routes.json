@@ -2,232 +2,199 @@
   {
     "name": "belial",
     "path": "/belial",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\belial.vue",
-    "chunkName": "pages/belial",
-    "_name": "_a66a6910"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\belial.vue",
+    "chunkName": "pages/belial"
   },
   {
     "name": "bolverk",
     "path": "/bolverk",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\bolverk.vue",
-    "chunkName": "pages/bolverk",
-    "_name": "_c225882c"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\bolverk.vue",
+    "chunkName": "pages/bolverk"
   },
   {
     "name": "camilla",
     "path": "/camilla",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\camilla.vue",
-    "chunkName": "pages/camilla",
-    "_name": "_e5b6f2ac"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\camilla.vue",
+    "chunkName": "pages/camilla"
   },
   {
     "name": "chow",
     "path": "/chow",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\chow.vue",
-    "chunkName": "pages/chow",
-    "_name": "_61f4f0cc"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\chow.vue",
+    "chunkName": "pages/chow"
   },
   {
     "name": "diana",
     "path": "/diana",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\diana.vue",
-    "chunkName": "pages/diana",
-    "_name": "_1c8c2672"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\diana.vue",
+    "chunkName": "pages/diana"
   },
   {
     "name": "elsharion",
     "path": "/elsharion",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\elsharion.vue",
-    "chunkName": "pages/elsharion",
-    "_name": "_928a4b84"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\elsharion.vue",
+    "chunkName": "pages/elsharion"
   },
   {
     "name": "fengyan",
     "path": "/fengyan",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\fengyan.vue",
-    "chunkName": "pages/fengyan",
-    "_name": "_7f1d5db1"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\fengyan.vue",
+    "chunkName": "pages/fengyan"
   },
   {
     "name": "fuuki",
     "path": "/fuuki",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\fuuki.vue",
-    "chunkName": "pages/fuuki",
-    "_name": "_40f1f227"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\fuuki.vue",
+    "chunkName": "pages/fuuki"
   },
   {
     "name": "giou",
     "path": "/giou",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\giou.vue",
-    "chunkName": "pages/giou",
-    "_name": "_b9577156"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\giou.vue",
+    "chunkName": "pages/giou"
   },
   {
     "name": "haegang",
     "path": "/haegang",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\haegang.vue",
-    "chunkName": "pages/haegang",
-    "_name": "_7ce035bc"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\haegang.vue",
+    "chunkName": "pages/haegang"
   },
   {
     "name": "helena",
     "path": "/helena",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\helena.vue",
-    "chunkName": "pages/helena",
-    "_name": "_af02fa94"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\helena.vue",
+    "chunkName": "pages/helena"
   },
   {
     "name": "josephine",
     "path": "/josephine",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\josephine.vue",
-    "chunkName": "pages/josephine",
-    "_name": "_3885abb4"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\josephine.vue",
+    "chunkName": "pages/josephine"
   },
   {
     "name": "juno",
     "path": "/juno",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\juno.vue",
-    "chunkName": "pages/juno",
-    "_name": "_53b92f59"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\juno.vue",
+    "chunkName": "pages/juno"
   },
   {
     "name": "kaki",
     "path": "/kaki",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\kaki.vue",
-    "chunkName": "pages/kaki",
-    "_name": "_d7aab77e"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\kaki.vue",
+    "chunkName": "pages/kaki"
   },
   {
     "name": "karnal",
     "path": "/karnal",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\karnal.vue",
-    "chunkName": "pages/karnal",
-    "_name": "_6a143f0a"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\karnal.vue",
+    "chunkName": "pages/karnal"
   },
   {
     "name": "laika",
     "path": "/laika",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\laika.vue",
-    "chunkName": "pages/laika",
-    "_name": "_21b987ad"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\laika.vue",
+    "chunkName": "pages/laika"
   },
   {
     "name": "leo",
     "path": "/leo",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\leo.vue",
-    "chunkName": "pages/leo",
-    "_name": "_301ba899"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\leo.vue",
+    "chunkName": "pages/leo"
   },
   {
     "name": "meihouwang",
     "path": "/meihouwang",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\meihouwang.vue",
-    "chunkName": "pages/meihouwang",
-    "_name": "_429651ad"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\meihouwang.vue",
+    "chunkName": "pages/meihouwang"
   },
   {
     "name": "molong",
     "path": "/molong",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\molong.vue",
-    "chunkName": "pages/molong",
-    "_name": "_49ecebeb"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\molong.vue",
+    "chunkName": "pages/molong"
   },
   {
     "name": "monsters",
     "path": "/monsters",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\monsters.vue",
-    "chunkName": "pages/monsters",
-    "_name": "_35401de6"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\monsters.vue",
+    "chunkName": "pages/monsters"
   },
   {
     "name": "ophilia",
     "path": "/ophilia",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\ophilia.vue",
-    "chunkName": "pages/ophilia",
-    "_name": "_249458b6"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\ophilia.vue",
+    "chunkName": "pages/ophilia"
   },
   {
     "name": "perna",
     "path": "/perna",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\perna.vue",
-    "chunkName": "pages/perna",
-    "_name": "_18f2d35a"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\perna.vue",
+    "chunkName": "pages/perna"
   },
   {
     "name": "praha",
     "path": "/praha",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\praha.vue",
-    "chunkName": "pages/praha",
-    "_name": "_a7224aca"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\praha.vue",
+    "chunkName": "pages/praha"
   },
   {
     "name": "rakan",
     "path": "/rakan",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\rakan.vue",
-    "chunkName": "pages/rakan",
-    "_name": "_167158e8"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\rakan.vue",
+    "chunkName": "pages/rakan"
   },
   {
     "name": "raki",
     "path": "/raki",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\raki.vue",
-    "chunkName": "pages/raki",
-    "_name": "_6b52de5a"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\raki.vue",
+    "chunkName": "pages/raki"
   },
   {
     "name": "rerune",
     "path": "/rerune",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\rerune.vue",
-    "chunkName": "pages/rerune",
-    "_name": "_1d7fe58c"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\rerune.vue",
+    "chunkName": "pages/rerune"
   },
   {
     "name": "seara",
     "path": "/seara",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\seara.vue",
-    "chunkName": "pages/seara",
-    "_name": "_33dd5681"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\seara.vue",
+    "chunkName": "pages/seara"
   },
   {
     "name": "suiki",
     "path": "/suiki",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\suiki.vue",
-    "chunkName": "pages/suiki",
-    "_name": "_4da0ce28"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\suiki.vue",
+    "chunkName": "pages/suiki"
   },
   {
     "name": "susano",
     "path": "/susano",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\susano.vue",
-    "chunkName": "pages/susano",
-    "_name": "_7041e53e"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\susano.vue",
+    "chunkName": "pages/susano"
   },
   {
     "name": "velajuel",
     "path": "/velajuel",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\velajuel.vue",
-    "chunkName": "pages/velajuel",
-    "_name": "_7d339123"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\velajuel.vue",
+    "chunkName": "pages/velajuel"
   },
   {
     "name": "woosa",
     "path": "/woosa",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\woosa.vue",
-    "chunkName": "pages/woosa",
-    "_name": "_7a06e968"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\woosa.vue",
+    "chunkName": "pages/woosa"
   },
   {
     "name": "xingzhe",
     "path": "/xingzhe",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\xingzhe.vue",
-    "chunkName": "pages/xingzhe",
-    "_name": "_08b107d0"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\xingzhe.vue",
+    "chunkName": "pages/xingzhe"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\mothe\\\\Desktop\\\\currySW2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_cc393ad6"
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

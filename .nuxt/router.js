@@ -4,39 +4,39 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _a66a6910 = () => interopDefault(import('..\\pages\\belial.vue' /* webpackChunkName: "pages/belial" */))
-const _c225882c = () => interopDefault(import('..\\pages\\bolverk.vue' /* webpackChunkName: "pages/bolverk" */))
-const _e5b6f2ac = () => interopDefault(import('..\\pages\\camilla.vue' /* webpackChunkName: "pages/camilla" */))
-const _61f4f0cc = () => interopDefault(import('..\\pages\\chow.vue' /* webpackChunkName: "pages/chow" */))
-const _1c8c2672 = () => interopDefault(import('..\\pages\\diana.vue' /* webpackChunkName: "pages/diana" */))
-const _928a4b84 = () => interopDefault(import('..\\pages\\elsharion.vue' /* webpackChunkName: "pages/elsharion" */))
-const _7f1d5db1 = () => interopDefault(import('..\\pages\\fengyan.vue' /* webpackChunkName: "pages/fengyan" */))
-const _40f1f227 = () => interopDefault(import('..\\pages\\fuuki.vue' /* webpackChunkName: "pages/fuuki" */))
-const _b9577156 = () => interopDefault(import('..\\pages\\giou.vue' /* webpackChunkName: "pages/giou" */))
-const _7ce035bc = () => interopDefault(import('..\\pages\\haegang.vue' /* webpackChunkName: "pages/haegang" */))
-const _af02fa94 = () => interopDefault(import('..\\pages\\helena.vue' /* webpackChunkName: "pages/helena" */))
-const _3885abb4 = () => interopDefault(import('..\\pages\\josephine.vue' /* webpackChunkName: "pages/josephine" */))
-const _53b92f59 = () => interopDefault(import('..\\pages\\juno.vue' /* webpackChunkName: "pages/juno" */))
-const _d7aab77e = () => interopDefault(import('..\\pages\\kaki.vue' /* webpackChunkName: "pages/kaki" */))
-const _6a143f0a = () => interopDefault(import('..\\pages\\karnal.vue' /* webpackChunkName: "pages/karnal" */))
-const _21b987ad = () => interopDefault(import('..\\pages\\laika.vue' /* webpackChunkName: "pages/laika" */))
-const _301ba899 = () => interopDefault(import('..\\pages\\leo.vue' /* webpackChunkName: "pages/leo" */))
-const _429651ad = () => interopDefault(import('..\\pages\\meihouwang.vue' /* webpackChunkName: "pages/meihouwang" */))
-const _49ecebeb = () => interopDefault(import('..\\pages\\molong.vue' /* webpackChunkName: "pages/molong" */))
-const _35401de6 = () => interopDefault(import('..\\pages\\monsters.vue' /* webpackChunkName: "pages/monsters" */))
-const _249458b6 = () => interopDefault(import('..\\pages\\ophilia.vue' /* webpackChunkName: "pages/ophilia" */))
-const _18f2d35a = () => interopDefault(import('..\\pages\\perna.vue' /* webpackChunkName: "pages/perna" */))
-const _a7224aca = () => interopDefault(import('..\\pages\\praha.vue' /* webpackChunkName: "pages/praha" */))
-const _167158e8 = () => interopDefault(import('..\\pages\\rakan.vue' /* webpackChunkName: "pages/rakan" */))
-const _6b52de5a = () => interopDefault(import('..\\pages\\raki.vue' /* webpackChunkName: "pages/raki" */))
-const _1d7fe58c = () => interopDefault(import('..\\pages\\rerune.vue' /* webpackChunkName: "pages/rerune" */))
-const _33dd5681 = () => interopDefault(import('..\\pages\\seara.vue' /* webpackChunkName: "pages/seara" */))
-const _4da0ce28 = () => interopDefault(import('..\\pages\\suiki.vue' /* webpackChunkName: "pages/suiki" */))
-const _7041e53e = () => interopDefault(import('..\\pages\\susano.vue' /* webpackChunkName: "pages/susano" */))
-const _7d339123 = () => interopDefault(import('..\\pages\\velajuel.vue' /* webpackChunkName: "pages/velajuel" */))
-const _7a06e968 = () => interopDefault(import('..\\pages\\woosa.vue' /* webpackChunkName: "pages/woosa" */))
-const _08b107d0 = () => interopDefault(import('..\\pages\\xingzhe.vue' /* webpackChunkName: "pages/xingzhe" */))
-const _cc393ad6 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _4652fe5e = () => interopDefault(import('..\\pages\\belial.vue' /* webpackChunkName: "pages/belial" */))
+const _705831b1 = () => interopDefault(import('..\\pages\\bolverk.vue' /* webpackChunkName: "pages/bolverk" */))
+const _5e8f7c71 = () => interopDefault(import('..\\pages\\camilla.vue' /* webpackChunkName: "pages/camilla" */))
+const _ddfe819a = () => interopDefault(import('..\\pages\\chow.vue' /* webpackChunkName: "pages/chow" */))
+const _cc103c0e = () => interopDefault(import('..\\pages\\diana.vue' /* webpackChunkName: "pages/diana" */))
+const _4d810b76 = () => interopDefault(import('..\\pages\\elsharion.vue' /* webpackChunkName: "pages/elsharion" */))
+const _50885378 = () => interopDefault(import('..\\pages\\fengyan.vue' /* webpackChunkName: "pages/fengyan" */))
+const _8344a4a4 = () => interopDefault(import('..\\pages\\fuuki.vue' /* webpackChunkName: "pages/fuuki" */))
+const _654f7eee = () => interopDefault(import('..\\pages\\giou.vue' /* webpackChunkName: "pages/giou" */))
+const _da0a4a2e = () => interopDefault(import('..\\pages\\haegang.vue' /* webpackChunkName: "pages/haegang" */))
+const _4eeb8fe2 = () => interopDefault(import('..\\pages\\helena.vue' /* webpackChunkName: "pages/helena" */))
+const _5b0a4bbb = () => interopDefault(import('..\\pages\\josephine.vue' /* webpackChunkName: "pages/josephine" */))
+const _15b466f2 = () => interopDefault(import('..\\pages\\juno.vue' /* webpackChunkName: "pages/juno" */))
+const _5625dbda = () => interopDefault(import('..\\pages\\kaki.vue' /* webpackChunkName: "pages/kaki" */))
+const _cbc0173a = () => interopDefault(import('..\\pages\\karnal.vue' /* webpackChunkName: "pages/karnal" */))
+const _c1b57998 = () => interopDefault(import('..\\pages\\laika.vue' /* webpackChunkName: "pages/laika" */))
+const _8b02cc40 = () => interopDefault(import('..\\pages\\leo.vue' /* webpackChunkName: "pages/leo" */))
+const _70a5b286 = () => interopDefault(import('..\\pages\\meihouwang.vue' /* webpackChunkName: "pages/meihouwang" */))
+const _79f8a144 = () => interopDefault(import('..\\pages\\molong.vue' /* webpackChunkName: "pages/molong" */))
+const _dd983e02 = () => interopDefault(import('..\\pages\\monsters.vue' /* webpackChunkName: "pages/monsters" */))
+const _81be6d28 = () => interopDefault(import('..\\pages\\ophilia.vue' /* webpackChunkName: "pages/ophilia" */))
+const _70f251da = () => interopDefault(import('..\\pages\\perna.vue' /* webpackChunkName: "pages/perna" */))
+const _29da9622 = () => interopDefault(import('..\\pages\\praha.vue' /* webpackChunkName: "pages/praha" */))
+const _72330f13 = () => interopDefault(import('..\\pages\\rakan.vue' /* webpackChunkName: "pages/rakan" */))
+const _2d4e15f3 = () => interopDefault(import('..\\pages\\raki.vue' /* webpackChunkName: "pages/raki" */))
+const _214bc293 = () => interopDefault(import('..\\pages\\rerune.vue' /* webpackChunkName: "pages/rerune" */))
+const _9d6ddbf0 = () => interopDefault(import('..\\pages\\seara.vue' /* webpackChunkName: "pages/seara" */))
+const _69e6eca2 = () => interopDefault(import('..\\pages\\suiki.vue' /* webpackChunkName: "pages/suiki" */))
+const _bf64cad2 = () => interopDefault(import('..\\pages\\susano.vue' /* webpackChunkName: "pages/susano" */))
+const _4db15788 = () => interopDefault(import('..\\pages\\velajuel.vue' /* webpackChunkName: "pages/velajuel" */))
+const _111ab622 = () => interopDefault(import('..\\pages\\woosa.vue' /* webpackChunkName: "pages/woosa" */))
+const _4bc804d2 = () => interopDefault(import('..\\pages\\xingzhe.vue' /* webpackChunkName: "pages/xingzhe" */))
+const _174f1e1c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -51,135 +51,135 @@ export const routerOptions = {
 
   routes: [{
     path: "/belial",
-    component: _a66a6910,
+    component: _4652fe5e,
     name: "belial"
   }, {
     path: "/bolverk",
-    component: _c225882c,
+    component: _705831b1,
     name: "bolverk"
   }, {
     path: "/camilla",
-    component: _e5b6f2ac,
+    component: _5e8f7c71,
     name: "camilla"
   }, {
     path: "/chow",
-    component: _61f4f0cc,
+    component: _ddfe819a,
     name: "chow"
   }, {
     path: "/diana",
-    component: _1c8c2672,
+    component: _cc103c0e,
     name: "diana"
   }, {
     path: "/elsharion",
-    component: _928a4b84,
+    component: _4d810b76,
     name: "elsharion"
   }, {
     path: "/fengyan",
-    component: _7f1d5db1,
+    component: _50885378,
     name: "fengyan"
   }, {
     path: "/fuuki",
-    component: _40f1f227,
+    component: _8344a4a4,
     name: "fuuki"
   }, {
     path: "/giou",
-    component: _b9577156,
+    component: _654f7eee,
     name: "giou"
   }, {
     path: "/haegang",
-    component: _7ce035bc,
+    component: _da0a4a2e,
     name: "haegang"
   }, {
     path: "/helena",
-    component: _af02fa94,
+    component: _4eeb8fe2,
     name: "helena"
   }, {
     path: "/josephine",
-    component: _3885abb4,
+    component: _5b0a4bbb,
     name: "josephine"
   }, {
     path: "/juno",
-    component: _53b92f59,
+    component: _15b466f2,
     name: "juno"
   }, {
     path: "/kaki",
-    component: _d7aab77e,
+    component: _5625dbda,
     name: "kaki"
   }, {
     path: "/karnal",
-    component: _6a143f0a,
+    component: _cbc0173a,
     name: "karnal"
   }, {
     path: "/laika",
-    component: _21b987ad,
+    component: _c1b57998,
     name: "laika"
   }, {
     path: "/leo",
-    component: _301ba899,
+    component: _8b02cc40,
     name: "leo"
   }, {
     path: "/meihouwang",
-    component: _429651ad,
+    component: _70a5b286,
     name: "meihouwang"
   }, {
     path: "/molong",
-    component: _49ecebeb,
+    component: _79f8a144,
     name: "molong"
   }, {
     path: "/monsters",
-    component: _35401de6,
+    component: _dd983e02,
     name: "monsters"
   }, {
     path: "/ophilia",
-    component: _249458b6,
+    component: _81be6d28,
     name: "ophilia"
   }, {
     path: "/perna",
-    component: _18f2d35a,
+    component: _70f251da,
     name: "perna"
   }, {
     path: "/praha",
-    component: _a7224aca,
+    component: _29da9622,
     name: "praha"
   }, {
     path: "/rakan",
-    component: _167158e8,
+    component: _72330f13,
     name: "rakan"
   }, {
     path: "/raki",
-    component: _6b52de5a,
+    component: _2d4e15f3,
     name: "raki"
   }, {
     path: "/rerune",
-    component: _1d7fe58c,
+    component: _214bc293,
     name: "rerune"
   }, {
     path: "/seara",
-    component: _33dd5681,
+    component: _9d6ddbf0,
     name: "seara"
   }, {
     path: "/suiki",
-    component: _4da0ce28,
+    component: _69e6eca2,
     name: "suiki"
   }, {
     path: "/susano",
-    component: _7041e53e,
+    component: _bf64cad2,
     name: "susano"
   }, {
     path: "/velajuel",
-    component: _7d339123,
+    component: _4db15788,
     name: "velajuel"
   }, {
     path: "/woosa",
-    component: _7a06e968,
+    component: _111ab622,
     name: "woosa"
   }, {
     path: "/xingzhe",
-    component: _08b107d0,
+    component: _4bc804d2,
     name: "xingzhe"
   }, {
     path: "/",
-    component: _cc393ad6,
+    component: _174f1e1c,
     name: "index"
   }],
 

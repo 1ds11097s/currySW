@@ -52,7 +52,7 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=79c569b7&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=79c569b7
 
 
 
@@ -269,10 +269,10 @@ var belialvue_type_template_id_79c569b7_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=79c569b7&
+// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=79c569b7
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=script&lang=js&
-/* harmony default export */ var belialvue_type_script_lang_js_ = ({
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=script&lang=js
+/* harmony default export */ var belialvue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
@@ -280,8 +280,8 @@ var staticRenderFns = [];
     };
   }
 });
-// CONCATENATED MODULE: ./pages/belial.vue?vue&type=script&lang=js&
- /* harmony default export */ var pages_belialvue_type_script_lang_js_ = (belialvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./pages/belial.vue?vue&type=script&lang=js
+ /* harmony default export */ var pages_belialvue_type_script_lang_js = (belialvue_type_script_lang_js); 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
 
@@ -294,13 +294,13 @@ var componentNormalizer = __webpack_require__(7);
 /* normalize component */
 
 var component = Object(componentNormalizer["a" /* default */])(
-  pages_belialvue_type_script_lang_js_,
+  pages_belialvue_type_script_lang_js,
   belialvue_type_template_id_79c569b7_render,
   staticRenderFns,
   false,
   null,
   null,
-  "34e6eddc"
+  "645782e2"
   
 )
 

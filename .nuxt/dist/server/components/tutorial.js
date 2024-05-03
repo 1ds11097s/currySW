@@ -8,7 +8,7 @@ exports.modules = {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Tutorial.vue?vue&type=template&id=1eb7c84e&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Tutorial.vue?vue&type=template&id=1eb7c84e
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -18,14 +18,14 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/Tutorial.vue?vue&type=template&id=1eb7c84e&
+// CONCATENATED MODULE: ./components/Tutorial.vue?vue&type=template&id=1eb7c84e
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Tutorial.vue?vue&type=script&lang=js&
-/* harmony default export */ var Tutorialvue_type_script_lang_js_ = ({
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Tutorial.vue?vue&type=script&lang=js
+/* harmony default export */ var Tutorialvue_type_script_lang_js = ({
   name: 'NuxtTutorial'
 });
-// CONCATENATED MODULE: ./components/Tutorial.vue?vue&type=script&lang=js&
- /* harmony default export */ var components_Tutorialvue_type_script_lang_js_ = (Tutorialvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./components/Tutorial.vue?vue&type=script&lang=js
+ /* harmony default export */ var components_Tutorialvue_type_script_lang_js = (Tutorialvue_type_script_lang_js); 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
 
@@ -38,13 +38,13 @@ var componentNormalizer = __webpack_require__(7);
 /* normalize component */
 
 var component = Object(componentNormalizer["a" /* default */])(
-  components_Tutorialvue_type_script_lang_js_,
+  components_Tutorialvue_type_script_lang_js,
   render,
   staticRenderFns,
   false,
   null,
   null,
-  "1858d2f6"
+  "6b592a68"
   
 )
 

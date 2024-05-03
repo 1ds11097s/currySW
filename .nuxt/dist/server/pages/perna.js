@@ -23,7 +23,7 @@ var VImg = __webpack_require__(45);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(87);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/perna.vue?vue&type=template&id=48fc272a&
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/perna.vue?vue&type=template&id=48fc272a
 
 
 
@@ -240,10 +240,10 @@ var pernavue_type_template_id_48fc272a_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/perna.vue?vue&type=template&id=48fc272a&
+// CONCATENATED MODULE: ./pages/perna.vue?vue&type=template&id=48fc272a
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/perna.vue?vue&type=script&lang=js&
-/* harmony default export */ var pernavue_type_script_lang_js_ = ({
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/perna.vue?vue&type=script&lang=js
+/* harmony default export */ var pernavue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
@@ -251,8 +251,8 @@ var staticRenderFns = [];
     };
   }
 });
-// CONCATENATED MODULE: ./pages/perna.vue?vue&type=script&lang=js&
- /* harmony default export */ var pages_pernavue_type_script_lang_js_ = (pernavue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./pages/perna.vue?vue&type=script&lang=js
+ /* harmony default export */ var pages_pernavue_type_script_lang_js = (pernavue_type_script_lang_js); 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
 
@@ -265,13 +265,13 @@ var componentNormalizer = __webpack_require__(7);
 /* normalize component */
 
 var component = Object(componentNormalizer["a" /* default */])(
-  pages_pernavue_type_script_lang_js_,
+  pages_pernavue_type_script_lang_js,
   pernavue_type_template_id_48fc272a_render,
   staticRenderFns,
   false,
   null,
   null,
-  "2f29bd79"
+  "9af23748"
   
 )
 
