@@ -4,6 +4,7 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _58c32d63 = () => interopDefault(import('..\\pages\\articles.vue' /* webpackChunkName: "pages/articles" */))
 const _4652fe5e = () => interopDefault(import('..\\pages\\belial.vue' /* webpackChunkName: "pages/belial" */))
 const _705831b1 = () => interopDefault(import('..\\pages\\bolverk.vue' /* webpackChunkName: "pages/bolverk" */))
 const _5e8f7c71 = () => interopDefault(import('..\\pages\\camilla.vue' /* webpackChunkName: "pages/camilla" */))
@@ -22,6 +23,7 @@ const _cbc0173a = () => interopDefault(import('..\\pages\\karnal.vue' /* webpack
 const _c1b57998 = () => interopDefault(import('..\\pages\\laika.vue' /* webpackChunkName: "pages/laika" */))
 const _8b02cc40 = () => interopDefault(import('..\\pages\\leo.vue' /* webpackChunkName: "pages/leo" */))
 const _70a5b286 = () => interopDefault(import('..\\pages\\meihouwang.vue' /* webpackChunkName: "pages/meihouwang" */))
+const _d5bc3a08 = () => interopDefault(import('..\\pages\\membership.vue' /* webpackChunkName: "pages/membership" */))
 const _79f8a144 = () => interopDefault(import('..\\pages\\molong.vue' /* webpackChunkName: "pages/molong" */))
 const _dd983e02 = () => interopDefault(import('..\\pages\\monsters.vue' /* webpackChunkName: "pages/monsters" */))
 const _81be6d28 = () => interopDefault(import('..\\pages\\ophilia.vue' /* webpackChunkName: "pages/ophilia" */))
@@ -29,7 +31,7 @@ const _70f251da = () => interopDefault(import('..\\pages\\perna.vue' /* webpackC
 const _29da9622 = () => interopDefault(import('..\\pages\\praha.vue' /* webpackChunkName: "pages/praha" */))
 const _72330f13 = () => interopDefault(import('..\\pages\\rakan.vue' /* webpackChunkName: "pages/rakan" */))
 const _2d4e15f3 = () => interopDefault(import('..\\pages\\raki.vue' /* webpackChunkName: "pages/raki" */))
-const _214bc293 = () => interopDefault(import('..\\pages\\rerune.vue' /* webpackChunkName: "pages/rerune" */))
+const _558ae74a = () => interopDefault(import('..\\pages\\rtanonrta.vue' /* webpackChunkName: "pages/rtanonrta" */))
 const _9d6ddbf0 = () => interopDefault(import('..\\pages\\seara.vue' /* webpackChunkName: "pages/seara" */))
 const _69e6eca2 = () => interopDefault(import('..\\pages\\suiki.vue' /* webpackChunkName: "pages/suiki" */))
 const _bf64cad2 = () => interopDefault(import('..\\pages\\susano.vue' /* webpackChunkName: "pages/susano" */))
@@ -50,6 +52,10 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/articles",
+    component: _58c32d63,
+    name: "articles"
+  }, {
     path: "/belial",
     component: _4652fe5e,
     name: "belial"
@@ -122,6 +128,10 @@ export const routerOptions = {
     component: _70a5b286,
     name: "meihouwang"
   }, {
+    path: "/membership",
+    component: _d5bc3a08,
+    name: "membership"
+  }, {
     path: "/molong",
     component: _79f8a144,
     name: "molong"
@@ -150,9 +160,9 @@ export const routerOptions = {
     component: _2d4e15f3,
     name: "raki"
   }, {
-    path: "/rerune",
-    component: _214bc293,
-    name: "rerune"
+    path: "/rtanonrta",
+    component: _558ae74a,
+    name: "rtanonrta"
   }, {
     path: "/seara",
     component: _9d6ddbf0,

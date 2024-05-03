@@ -13,3 +13,84 @@ body, .body-black {
 .headline {
   color: white;
 }
+
+.header-fixed {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.carousel-content-pc {
+  margin: 0 10px 0 0;
+  width: 320px; 
+  height: 100%;
+}
+
+.carousel-content-sp {
+  margin: 0 10px 0 0;
+  width: 150px;
+}
+
+table.table01 {
+	width:100%;
+	border-right:#3EB1C6 solid 1px;
+	border-collapse: collapse;
+}
+table.table01 thead th {
+	background:#3EB1C6;
+	color:#000;
+	padding:10px 15px;
+	border-right:#FFF solid 1px;
+	border-bottom:#FFF solid 1px;
+}
+table.table01 thead th:last-child {
+	border-right:#3EB1C6 solid 1px;
+}
+table.table01 tbody th {
+	background:#3EB1C6;
+	color:#000;
+	padding:10px 15px;
+	border-bottom:#FFF solid 1px;
+	vertical-align:top;
+}
+table.table01 tbody tr:last-child th {
+	border-bottom:#3EB1C6 solid 1px;
+}
+table.table01 tbody td {
+	background:#FFF;
+	padding:10px 15px;
+	border-left:#3EB1C6 solid 1px;
+	border-bottom:#3EB1C6 solid 1px;
+	vertical-align:top;
+  color: #000;
+}
+
+.h1-font-size {
+  font-size: 1.5rem !important;
+}
+
+@media screen and (max-width: 640px) {
+table {
+  word-break: break-all;
+}
+table.table01 thead {
+	display:none;
+}
+table.table01 tbody th {
+	display:block;
+}
+table.table01 tbody td {
+	display:block;
+}
+table.table01 tbody td::before {
+	content: attr(label);
+	float: left;
+	clear:both;
+	font-weight:bold;
+}
+table.table01 tbody td p {
+	padding-left:6em;
+}
+}

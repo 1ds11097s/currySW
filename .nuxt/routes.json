@@ -1,5 +1,12 @@
 [
   {
+    "name": "articles",
+    "path": "/articles",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "_name": "_58c32d63"
+  },
+  {
     "name": "belial",
     "path": "/belial",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\belial.vue",
@@ -126,6 +133,13 @@
     "_name": "_70a5b286"
   },
   {
+    "name": "membership",
+    "path": "/membership",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\membership.vue",
+    "chunkName": "pages/membership",
+    "_name": "_d5bc3a08"
+  },
+  {
     "name": "molong",
     "path": "/molong",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\molong.vue",
@@ -175,11 +189,11 @@
     "_name": "_2d4e15f3"
   },
   {
-    "name": "rerune",
-    "path": "/rerune",
-    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\rerune.vue",
-    "chunkName": "pages/rerune",
-    "_name": "_214bc293"
+    "name": "rtanonrta",
+    "path": "/rtanonrta",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\rtanonrta.vue",
+    "chunkName": "pages/rtanonrta",
+    "_name": "_558ae74a"
   },
   {
     "name": "seara",
