@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Curry's RTA Room【Summoners War】",
+    title: "CurrySW RTA Room【Summoners War】",
     htmlAttrs: {
       lang: 'en'
     },

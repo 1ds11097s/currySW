@@ -7,7 +7,7 @@
     <v-toolbar dense>
       
 
-      <v-toolbar-title class="font-weight-bold">Curry's RTA Room & Rerune Service【Summoners War】</v-toolbar-title>
+      <v-toolbar-title class="font-weight-bold">CurrySW RTA Room【Summoners War】</v-toolbar-title>
 
       <v-spacer></v-spacer>
 

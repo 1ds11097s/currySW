@@ -3831,14 +3831,14 @@ const VToolbarItems = Object(helpers["e" /* createSimpleFunctional */])('v-toolb
     VToolbarTitle
   }
 });
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Header.vue?vue&type=template&id=5836fa26
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Header.vue?vue&type=template&id=4455ce8f
 
 
 
 
 
 
-var Headervue_type_template_id_5836fa26_render = function render() {
+var Headervue_type_template_id_4455ce8f_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VCard["a" /* default */], {
@@ -3853,7 +3853,7 @@ var Headervue_type_template_id_5836fa26_render = function render() {
     }
   }, [_c(VToolbarTitle, {
     staticClass: "font-weight-bold"
-  }, [_vm._v("Curry's RTA Room & Rerune Service【Summoners War】")]), _vm._v(" "), _c(VSpacer), _vm._v(" "), _c(VBtn["a" /* default */], {
+  }, [_vm._v("CurrySW RTA Room【Summoners War】")]), _vm._v(" "), _c(VSpacer), _vm._v(" "), _c(VBtn["a" /* default */], {
     staticClass: "text-center mx-4",
     attrs: {
       "text": "",
@@ -3878,7 +3878,7 @@ var Headervue_type_template_id_5836fa26_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/Header.vue?vue&type=template&id=5836fa26
+// CONCATENATED MODULE: ./components/Header.vue?vue&type=template&id=4455ce8f
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
@@ -3892,7 +3892,7 @@ var script = {}
 
 var component = Object(componentNormalizer["a" /* default */])(
   script,
-  Headervue_type_template_id_5836fa26_render,
+  Headervue_type_template_id_4455ce8f_render,
   staticRenderFns,
   false,
   null,
@@ -3911,7 +3911,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer.vue?vue&type=template&id=56d05e29
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer.vue?vue&type=template&id=e85acdfc
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -3920,11 +3920,11 @@ var render = function render() {
     staticStyle: {
       "color": "white"
     }
-  }, [_vm._ssrNode("<span>Copyright © 2023 Curry's RTA Room All Rights Reserved.</span>")]);
+  }, [_vm._ssrNode("<span>Copyright © 2023-2024 CurrySW RTA Room All Rights Reserved.</span>")]);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/Footer.vue?vue&type=template&id=56d05e29
+// CONCATENATED MODULE: ./components/Footer.vue?vue&type=template&id=e85acdfc
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(7);
@@ -6861,7 +6861,7 @@ async function createApp(ssrContext, config = {}) {
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
     head: {
-      "title": "Curry's RTA Room【Summoners War】",
+      "title": "CurrySW RTA Room【Summoners War】",
       "htmlAttrs": {
         "lang": "en"
       },
