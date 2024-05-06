@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/woosa.vue?vue&type=template&id=8bfc5aaa
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/woosa.vue?vue&type=template&id=313eba8e
 
 
 
 
 
 
-var woosavue_type_template_id_8bfc5aaa_render = function render() {
+var woosavue_type_template_id_313eba8e_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,121 @@ var woosavue_type_template_id_8bfc5aaa_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding runes")]), _vm._v("\nI would recommend vio,will or swift\nI have two of his and I have runed and used both of them.\nIn recent seasons I tend to use swift more often\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - SPD 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nuse hp as your main option\ndef is also ok depending on sub options\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("DEF Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Water -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("regarding left option")]), _vm._v("\nwind damage cut is recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding right option")]), _vm._v("\nincrease recovery of skill2 or increase acc of skill1 is recommended.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nFor turn2 vio\nPrioritize the statuses in the following order: res, hp, def, speed, acc, atk, cri rate, crdmg\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +3000.\nAim for +35000 to increase the amount of damage his skill2 can do\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +600-700\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nAim for max\nIf it's too difficult, you can use res for slot6\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nIt depends on the speed of your team, but in my case, a total of about 200 is sufficient.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nNot a high priority, but 20-30 would be useful.\nIf his skill1 work, you'll have a big advantage.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nFor swift\nPrioritize the statuses in the following order: spd, hp, def, acc, res, atk, cri rate, crdmg\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +25000 or so\nEventually you need +30,000 or so\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +500-600\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nIf it's high, it'll be useful, but it's not a high priority.\nThis is because you'll use him if you move before the enemy and they don't have any strippers on their team.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nAim for +200 over\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nNot a high priority, but 20-30 would be useful.\nIf his skill1 work, you'll have a big advantage.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nNot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nDecide whether to use vio or swift depending on the enemy team\nIf the enemy team doesn't have strippers and it's going to be a damage battle, use vio.\nIf the enemy team has no strippers and is close to a one shot, use swift\nHis shield is more effective against one shot teams\nSince one shot teams are often slow, swift is more likely to be able to make the first move even without a speed leader.\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +340,7 @@ var woosavue_type_template_id_8bfc5aaa_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/woosa.vue?vue&type=template&id=8bfc5aaa
+// CONCATENATED MODULE: ./pages/woosa.vue?vue&type=template&id=313eba8e
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/woosa.vue?vue&type=script&lang=js
 /* harmony default export */ var woosavue_type_script_lang_js = ({
@@ -266,7 +366,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_woosavue_type_script_lang_js,
-  woosavue_type_template_id_8bfc5aaa_render,
+  woosavue_type_template_id_313eba8e_render,
   staticRenderFns,
   false,
   null,

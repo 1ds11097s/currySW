@@ -1187,7 +1187,7 @@ const BaseItem = external_vue_default.a.extend({
 /* @vue/component */).extend({
   name: 'v-slide-item'
 }));
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=8abdc866
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=4a788b5a
 
 
 
@@ -1197,7 +1197,7 @@ const BaseItem = external_vue_default.a.extend({
 
 
 
-var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function render() {
+var lib_vue_loader_options_pagesvue_type_template_id_4a788b5a_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -1877,7 +1877,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
       "show-arrows": ""
     }
   }, [_c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -1891,7 +1891,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("HP+35000 crazy trap Laika, he is the strongest guardian that no one can predict😛😛")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -1905,7 +1905,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("It's impossible to defeat him, Akroma × Guillaume combo debut😆😆😆")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -1919,7 +1919,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("Finally!! I Summoned New LD5🤩🤩🤩")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2001,7 +2001,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
       "show-arrows": ""
     }
   }, [_c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2015,7 +2015,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("THE BUFFED Icasha, NEW TURN2 GUARDIAN Debut🤩🤩🤩")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2032,7 +2032,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("+43000! All HP Chow is New Crazy Trap😬😬😬 ")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2107,7 +2107,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
       "show-arrows": ""
     }
   }, [_c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2121,7 +2121,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("G3 Break Crazy Power Perna, he destroys everything with his power🤯🤯🤯")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2138,7 +2138,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("EZ G3 Break, King of Power Chow🫡🫡🫡")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2209,7 +2209,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
       "show-arrows": ""
     }
   }, [_c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2223,7 +2223,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("Increase All Harmful effect, Pang × Gurkha Combo of fear Debut😵‍💫😵‍💫😵‍💫")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2240,7 +2240,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
   }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
     staticClass: "font-weight-bold"
   }, [_vm._v("It's impossible to defeat them, Akroma × Borgnine combo debut🙃🙃🙃")])], 1)], 1), _vm._v(" "), _c(VSlideItem, [_c(VCard["a" /* default */], {
-    staticClass: "carousel-content-pc",
+    staticClass: "carousel-content-sp",
     attrs: {
       "hover": "",
       "ripple": "",
@@ -2306,7 +2306,7 @@ var lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render = function 
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=8abdc866
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=4a788b5a
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js
 /* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js = ({
@@ -2327,7 +2327,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pagesvue_type_script_lang_js,
-  lib_vue_loader_options_pagesvue_type_template_id_8abdc866_render,
+  lib_vue_loader_options_pagesvue_type_template_id_4a788b5a_render,
   staticRenderFns,
   false,
   null,

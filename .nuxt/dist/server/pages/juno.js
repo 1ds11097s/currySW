@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=template&id=7fe232b9
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=template&id=17aec8d4
 
 
 
 
 
 
-var junovue_type_template_id_7fe232b9_render = function render() {
+var junovue_type_template_id_17aec8d4_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,76 @@ var junovue_type_template_id_7fe232b9_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("DESP & NEMESIS")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("DESP & REVENGE")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VAMP & NEMESIS")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VAMP & REVENGE")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regading runes")]), _vm._v("\nI recommend desp or vamp\nIn recent seasons, I recommend vamp more\nIf she is not debuffed and can heal on her own, she'll be more likely to win, especially against cc teams.\nOf course, desp is effective, but I feel that vamp is better in many cases.\nIf you have runes of equal quality, try both\nFor the rest of the set, I recommend rev or nem.\nrev can increase atk bar and give stun if you use desp, but nem will increase your chances of not being killed by masha attacks, for example.\nspd, cri rate, hp is recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - SPD 4 - CRI RATE 6 - HP")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nhp is recommended as the main option\ndef is also good, but if the enemy uses additional damage, def will make it easier to be defeated.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Additional Damage by x% of SPD")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Water -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Fire -x%")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("regarding left option")]), _vm._v("\nAdditional damage by speed is recommended.\nIt would be better to have water and fire damage cutoff.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding right option")]), _vm._v("\nAdditional damage by speed is recommended.\nIncreasing skill2 acc is also recommended\nAim for about 250% additional damage in total.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding status priority")]), _vm._v("\nPriority of status is speed, hp, cri rate, def, atk, acc, crdmg, res, in that order.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for about +20k-25k in the end.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for spd")]), _vm._v("\nAim for +150\nHigher ranks require +170 or so.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nIt's not necessary to achieve 100%, but 90% or more is required.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for 600-700\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nAim for 600-700\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nAim for 30-40\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nNecessary, but low priority\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nNot necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nI think it's basic to use it for cc team, but in my case, I'm careful about the order of picks.\nI don't often use her as my second pick because she is weak against monsters like masha and daphnis.\nI tend to use her in the last pick after I have a complete idea of the enemy team\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +295,7 @@ var junovue_type_template_id_7fe232b9_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/juno.vue?vue&type=template&id=7fe232b9
+// CONCATENATED MODULE: ./pages/juno.vue?vue&type=template&id=17aec8d4
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=script&lang=js
 /* harmony default export */ var junovue_type_script_lang_js = ({
@@ -266,7 +321,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_junovue_type_script_lang_js,
-  junovue_type_template_id_7fe232b9_render,
+  junovue_type_template_id_17aec8d4_render,
   staticRenderFns,
   false,
   null,

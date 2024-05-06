@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=template&id=c9485106
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=template&id=5dca20a5
 
 
 
 
 
 
-var chowvue_type_template_id_c9485106_render = function render() {
+var chowvue_type_template_id_5dca20a5_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,76 @@ var chowvue_type_template_id_c9485106_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & NEMESIS")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regading runes")]), _vm._v("\nvio, nem is recommended\nwill not be necessary\nhp, atk, crdmg is recommended for slots 2,4,6\nhp,hp will make him harder to beat but harder to beat the enemy\nHis stats should be balanced\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRDMG 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRDMG 6 - ATK")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nI think any of the main options are fine.\nUse whichever option you think is missing\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Skill 1 CRIT DMG +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 CRIT DMG +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Fire +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Water +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Single-target skill CRIT DMG x% on your turn")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("regarding left option")]), _vm._v("\nI recommend the option that increases crdmg\nDamage cut for wind and water is not recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding right option")]), _vm._v("\nI recommend the option that increases crdmg\nThe option to increase skill3's recover is also recommended.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding status priorities")]), _vm._v("\nThe priority of status is cri rate, hp, atk, def, speed, crdmg, acc, res in that order.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nAim for 100\nAt least 95 is necessary\nIf you make even one mistake, you may lose.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +30k in the end.\nAt least +25k is needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nAim for +800k in the end.\nThis is a high priority because it's necessary to defeat the enemy as quickly as possible.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +700 in the end.\nFor now, +600 is good.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nAim for +90~+100\nIf there is a def break monster in your team, adjust the speed to move next to him.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nThere is no particular value to aim for.\n130% is fine.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nNot necessary, but 10% may be useful in some cases.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nNot necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nBasically, I think it's good to use him for the last pick.\nHis passive is very powerful, but he has many weaknesses, so it's not recommended to pick him with the second pick.\nI recommend to use him against cc teams like verde, neph, haegang for example.\nThese teams use stun to stop our team's monsters, but he can remove them, so you can use him as anti-monster\nNote that if you pick against a team using cp, he'll not be able to move\nYou can also use him against teams using wind devil maiden, which is very popular these days, so try it\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +295,7 @@ var chowvue_type_template_id_c9485106_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/chow.vue?vue&type=template&id=c9485106
+// CONCATENATED MODULE: ./pages/chow.vue?vue&type=template&id=5dca20a5
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=script&lang=js
 /* harmony default export */ var chowvue_type_script_lang_js = ({
@@ -266,7 +321,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_chowvue_type_script_lang_js,
-  chowvue_type_template_id_c9485106_render,
+  chowvue_type_template_id_5dca20a5_render,
   staticRenderFns,
   false,
   null,

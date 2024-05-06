@@ -1,6 +1,23 @@
 <template>
   <v-row justify="center" class="main-area rounded-xl py-10">
     <v-col cols="11" class="rounded-xl">
+      <div class="headline font-weight-bold my-6" style="font-family: Anton!important;"><h1 class="h1-font-size">Introduction Video</h1></div>
+      <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
+        <v-col cols="12" style="color:white">
+          <v-card height=400 class="black darken-4">
+            <iframe
+              height="100%"
+              width="100%"
+              src="https://www.youtube.com/embed/g6-XS_a_bGM?si=ZsW6WuHOroicI9s5"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </v-card>
+        </v-col>
+      </v-row>
+    </v-col>
+    <v-col cols="11" class="rounded-xl">
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;"><h1 class="h1-font-size">MemberShip Detail</h1><v-btn text color="blue" class="font-weight-bold" href="https://discord.gg/daAeAZnwcH" target="_blank"> More Detail → Discord</v-btn></div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">

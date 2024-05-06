@@ -11,18 +11,22 @@ __webpack_require__.r(__webpack_exports__);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VBtn/VBtn.js + 3 modules
 var VBtn = __webpack_require__(94);
 
+// EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VCard/VCard.js + 3 modules
+var VCard = __webpack_require__(87);
+
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VCol.js
 var VCol = __webpack_require__(93);
 
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=template&id=2414b11b
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=template&id=9e1c7d00
 
 
 
 
-var membershipvue_type_template_id_2414b11b_render = function render() {
+
+var membershipvue_type_template_id_9e1c7d00_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -31,6 +35,44 @@ var membershipvue_type_template_id_2414b11b_render = function render() {
       "justify": "center"
     }
   }, [_c(VCol["a" /* default */], {
+    staticClass: "rounded-xl",
+    attrs: {
+      "cols": "11"
+    }
+  }, [_c('div', {
+    staticClass: "headline font-weight-bold my-6",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_c('h1', {
+    staticClass: "h1-font-size"
+  }, [_vm._v("Introduction Video")])]), _vm._v(" "), _c(VRow["a" /* default */], {
+    staticClass: "main-banner-area rounded-xl pa-4 mb-4",
+    attrs: {
+      "justify": "center"
+    }
+  }, [_c(VCol["a" /* default */], {
+    staticStyle: {
+      "color": "white"
+    },
+    attrs: {
+      "cols": "12"
+    }
+  }, [_c(VCard["a" /* default */], {
+    staticClass: "black darken-4",
+    attrs: {
+      "height": "400"
+    }
+  }, [_c('iframe', {
+    attrs: {
+      "height": "100%",
+      "width": "100%",
+      "src": "https://www.youtube.com/embed/g6-XS_a_bGM?si=ZsW6WuHOroicI9s5",
+      "frameborder": "0",
+      "allow": "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+      "allowfullscreen": ""
+    }
+  })])], 1)], 1)], 1), _vm._v(" "), _c(VCol["a" /* default */], {
     staticClass: "rounded-xl",
     attrs: {
       "cols": "11"
@@ -96,7 +138,7 @@ var membershipvue_type_template_id_2414b11b_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/membership.vue?vue&type=template&id=2414b11b
+// CONCATENATED MODULE: ./pages/membership.vue?vue&type=template&id=9e1c7d00
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=script&lang=js
 /* harmony default export */ var membershipvue_type_script_lang_js = ({
@@ -122,7 +164,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_membershipvue_type_script_lang_js,
-  membershipvue_type_template_id_2414b11b_render,
+  membershipvue_type_template_id_9e1c7d00_render,
   staticRenderFns,
   false,
   null,

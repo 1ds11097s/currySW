@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=template&id=b9dc0778
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=template&id=0fc33d32
 
 
 
 
 
 
-var molongvue_type_template_id_b9dc0778_render = function render() {
+var molongvue_type_template_id_0fc33d32_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,76 @@ var molongvue_type_template_id_b9dc0778_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VAMP & WILL")]), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding runes")]), _vm._v("\nI'd recommend vamp,will or vio,will.\nFor slots 2,4,6 I'd recommend spd, hp, hp or hp, hp, hp\nI've seen more and more players using vio recently due to buffs, so you can build whichever you prefer.\nI recommend vamp.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - SPD 4 - HP 6 - HP")]), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nuse hp as your main option\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Wind")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 Accuracy")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 Accuracy")]), _vm._v(" "), _c('div', {
+  }, [_vm._v("regarding left option")]), _vm._v("\nI'd recommend water or fire or wind dmg dealt\nI'm using water now, but you can decide what's best for you depending on what kind of enemy you're going to use him against.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding right option")]), _vm._v("\nincrease acc of skill1 is recommended.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nPrioritize the statuses in the following order:\nres, hp, def, speed, acc, atk, cri rate, crdmg(for a style like mine)\nor\nhp, speed , def, res, acc, atk, cri rate, crdmg\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nAim for max\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +600-700\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +30000\nAim for +35,000 in the end.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nIt's up to your team to decide his speed.\nIf the speed difference is too large, the enemy monster may move before he can use his skill.\nFor example, if you use him with bolverk, he should move after him and the speed difference should not be more than 5\nIf you use with attacker, he should move first and attacker should move after def break\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nIt's not a high priority, but it's very important.\nAim for about 20-30\nA total of about 40 with artifact is good.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nnot needed\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nSome players use him as a first pick, but I would recommend using him as a last pick as he'll be at a great disadvantage against cc teams.\nIf you have a monster like ragdoll, tian lang, you can first pick him.\nI think there are many situations where you can use him in case of damage battles\nYou need to support him so that he won't be defeated immediately after he uses skill3.\nIt would be good to use him with riley or gapsoo for example.\nAlso, if his res is maxed out, he'll be less likely to be knocked down.\n          \n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +295,7 @@ var molongvue_type_template_id_b9dc0778_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/molong.vue?vue&type=template&id=b9dc0778
+// CONCATENATED MODULE: ./pages/molong.vue?vue&type=template&id=0fc33d32
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/molong.vue?vue&type=script&lang=js
 /* harmony default export */ var molongvue_type_script_lang_js = ({
@@ -266,7 +321,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_molongvue_type_script_lang_js,
-  molongvue_type_template_id_b9dc0778_render,
+  molongvue_type_template_id_0fc33d32_render,
   staticRenderFns,
   false,
   null,

@@ -5,16 +5,89 @@
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Woosa(Water Pioneer)</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SET</div>
-            <span>VIO & WILL</span><br>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SLOT</div>
-            <span>2 - SPD 4 - HP 6 - HP</span><br>
-            <span>2 - HP 4 - HP 6 - HP</span><br>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND ARTIFACT OPTION</div>
-            <span>DEF Increased Proportional to Lost HP up to x%</span><br>
-            <span>Skill 1 Accuracy +x%</span><br>
-            <span>Damage Received from Water -x%</span><br>
-            <span>Damage Received from Wind -x%</span><br>
+          <div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding runes</div>
+I would recommend vio,will or swift
+I have two of his and I have runed and used both of them.
+In recent seasons I tend to use swift more often
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding artifacts</div>
+use hp as your main option
+def is also ok depending on sub options
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding left option</div>
+wind damage cut is recommended
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding right option</div>
+increase recovery of skill2 or increase acc of skill1 is recommended.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">Priority of statuses</div>
+For turn2 vio
+Prioritize the statuses in the following order: res, hp, def, speed, acc, atk, cri rate, crdmg
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for hp</div>
+Aim for +3000.
+Aim for +35000 to increase the amount of damage his skill2 can do
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for def</div>
+Aim for +600-700
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for res</div>
+Aim for max
+If it's too difficult, you can use res for slot6
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for speed</div>
+It depends on the speed of your team, but in my case, a total of about 200 is sufficient.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for acc</div>
+Not a high priority, but 20-30 would be useful.
+If his skill1 work, you'll have a big advantage.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for atk</div>
+not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for cri rate</div>
+not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for crdmg</div>
+not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">Priority of statuses</div>
+For swift
+Prioritize the statuses in the following order: spd, hp, def, acc, res, atk, cri rate, crdmg
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for hp</div>
+Aim for +25000 or so
+Eventually you need +30,000 or so
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for def</div>
+Aim for +500-600
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for res</div>
+If it's high, it'll be useful, but it's not a high priority.
+This is because you'll use him if you move before the enemy and they don't have any strippers on their team.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for speed</div>
+Aim for +200 over
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for acc</div>
+Not a high priority, but 20-30 would be useful.
+If his skill1 work, you'll have a big advantage.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for atk</div>
+not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for cri rate</div>
+not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for crdmg</div>
+Not needed
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">Usage</div>
+Decide whether to use vio or swift depending on the enemy team
+If the enemy team doesn't have strippers and it's going to be a damage battle, use vio.
+If the enemy team has no strippers and is close to a one shot, use swift
+His shield is more effective against one shot teams
+Since one shot teams are often slow, swift is more likely to be able to make the first move even without a speed leader.
           <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">VIDEOS</div>
           <v-row justify="center" class="main-banner-area rounded-xl pa-4">
             <template v-if="$vuetify.breakpoint.mdAndUp">

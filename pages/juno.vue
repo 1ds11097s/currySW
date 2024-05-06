@@ -5,18 +5,61 @@
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Juno(Fire Oracle)</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SET</div>
-            <span>DESP & NEMESIS</span><br>
-            <span>DESP & REVENGE</span><br>
-            <span>VAMP & NEMESIS</span><br>
-            <span>VAMP & REVENGE</span><br>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SLOT</div>
-            <span>2 - SPD 4 - CRI RATE 6 - HP</span><br>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND ARTIFACT OPTION</div>
-            <span>Additional Damage by x% of SPD</span><br>
-            <span>Skill 2 Accuracy +x%</span><br>
-            <span>Damage Received from Water -x%</span><br>
-            <span>Damage Received from Fire -x%</span><br>
+          <div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regading runes</div>
+I recommend desp or vamp
+In recent seasons, I recommend vamp more
+If she is not debuffed and can heal on her own, she'll be more likely to win, especially against cc teams.
+Of course, desp is effective, but I feel that vamp is better in many cases.
+If you have runes of equal quality, try both
+For the rest of the set, I recommend rev or nem.
+rev can increase atk bar and give stun if you use desp, but nem will increase your chances of not being killed by masha attacks, for example.
+spd, cri rate, hp is recommended
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding artifacts</div>
+hp is recommended as the main option
+def is also good, but if the enemy uses additional damage, def will make it easier to be defeated.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding left option</div>
+Additional damage by speed is recommended.
+It would be better to have water and fire damage cutoff.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding right option</div>
+Additional damage by speed is recommended.
+Increasing skill2 acc is also recommended
+Aim for about 250% additional damage in total.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">regarding status priority</div>
+Priority of status is speed, hp, cri rate, def, atk, acc, crdmg, res, in that order.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for hp</div>
+Aim for about +20k-25k in the end.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for spd</div>
+Aim for +150
+Higher ranks require +170 or so.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for cri rate</div>
+It's not necessary to achieve 100%, but 90% or more is required.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for def</div>
+Aim for 600-700
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for atk</div>
+Aim for 600-700
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for acc</div>
+Aim for 30-40
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for crdmg</div>
+Necessary, but low priority
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">for res</div>
+Not necessary
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">Usage</div>
+I think it's basic to use it for cc team, but in my case, I'm careful about the order of picks.
+I don't often use her as my second pick because she is weak against monsters like masha and daphnis.
+I tend to use her in the last pick after I have a complete idea of the enemy team
           <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">VIDEOS</div>
           <v-row justify="center" class="main-banner-area rounded-xl pa-4">
             <template v-if="$vuetify.breakpoint.mdAndUp">

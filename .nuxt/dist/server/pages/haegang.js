@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/haegang.vue?vue&type=template&id=135e2c23
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/haegang.vue?vue&type=template&id=17cdf5af
 
 
 
 
 
 
-var haegangvue_type_template_id_135e2c23_render = function render() {
+var haegangvue_type_template_id_17cdf5af_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,76 @@ var haegangvue_type_template_id_135e2c23_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("DESP & WILL")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding runes")]), _vm._v("\nI would recommend desp, will\nI would not recommend to build with any other runes.\nBasically spd, hp, hp is recommended.\nHowever, if you are easily defeated by sonia, you can build with spd,def,def or spd,hp,def.\nIf you have a total def of 1800 or so, I don't think sonia's ignore def will be work\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - SPEED 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nuse hp or def as main option\nIf you don't want to be defeated by sonia, def is a good choice.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Skill 2 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Water -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("regarding left option")]), _vm._v("\nwind damage cut is recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("regarding right option")]), _vm._v("\noption to increase acc of skill2 is recommended\nI think +18% over is good\nIn addition, an option to increase the acc of skill1 would be nice.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nPrioritize the statuses in the following order: spd, acc, hp, def, res, atk, cri rate, crdmg\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +20000\nIf you want to prioritize def for sonia, +15,000 is also fine.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +600\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nNot so high priority, but it may be useful if he have it.\nIt's possible to counter the enemy's first attack, but after that, it's harder to be defeated because it's harder to be def broken.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nfor speed\nAim for about +160\nIf his speed is too slow, your team monsters will not be able to move ahead even if his passive is activated.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nAim for 85\nI don't think that 85 is always necessary.\nI think around 50 is good.\nThe enemy teams that use him often don't have a very high res.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nNot necessary, but a little bit is good for turn2.\nSometimes there are situations where a little more damage from haegang would be enough to take down the enemy monster.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nSame as atk\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nSame as atk\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nBasically, he is used as a counter to the enemy team's use of stripper.\nhe is very effective against giana, valantis, etc.\nhe can be used against other strippers in many situations, so you should always think about whether he can use it or not.\nNote that he is not good at damage battles\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +295,7 @@ var haegangvue_type_template_id_135e2c23_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/haegang.vue?vue&type=template&id=135e2c23
+// CONCATENATED MODULE: ./pages/haegang.vue?vue&type=template&id=17cdf5af
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/haegang.vue?vue&type=script&lang=js
 /* harmony default export */ var haegangvue_type_script_lang_js = ({
@@ -266,7 +321,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_haegangvue_type_script_lang_js,
-  haegangvue_type_template_id_135e2c23_render,
+  haegangvue_type_template_id_17cdf5af_render,
   staticRenderFns,
   false,
   null,

@@ -278,25 +278,25 @@ If you are interested, please contact me through discord
       <div class="main-banner-area rounded-xl pa-4 mb-4">
         <v-slide-group multiple show-arrows>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/AuvixG8PyKM" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/AuvixG8PyKM" target="_blank">
               <v-img src="p4.png"></v-img>
               <v-card-subtitle class="font-weight-bold">HP+35000 crazy trap Laika, he is the strongest guardian that no one can predict😛😛</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/2LRK1jGmkGo" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/2LRK1jGmkGo" target="_blank">
               <v-img src="p5.png"></v-img>
               <v-card-subtitle class="font-weight-bold">It's impossible to defeat him, Akroma × Guillaume combo debut😆😆😆</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/UIqg24ptDM8" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/UIqg24ptDM8" target="_blank">
               <v-img src="p6.png"></v-img>
               <v-card-subtitle class="font-weight-bold">Finally!! I Summoned New LD5🤩🤩🤩</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/lldrHStYFVw" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/lldrHStYFVw" target="_blank">
               <v-img src="p7.png"></v-img>
               <v-card-subtitle class="font-weight-bold">G3 achieved, World Arena Season28 All Rune Showcase😉😉😉</v-card-subtitle>
             </v-card>
@@ -331,19 +331,19 @@ If you are interested, please contact me through discord
       <div class="main-banner-area rounded-xl pa-4 mb-4">
         <v-slide-group multiple show-arrows>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/cidhI0sVXWw" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/cidhI0sVXWw" target="_blank">
               <v-img src="r4.png"></v-img>
               <v-card-subtitle class="font-weight-bold">THE BUFFED Icasha, NEW TURN2 GUARDIAN Debut🤩🤩🤩</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/I57IIU2vYls" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/I57IIU2vYls" target="_blank">
               <v-img src="r5.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">+43000! All HP Chow is New Crazy Trap😬😬😬 </v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/ivdyM1bpfno" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/ivdyM1bpfno" target="_blank">
               <v-img src="r6.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">ATK+2100, CRDMG 214%, he is world No.1 One Shot Monster in season28</v-card-subtitle>
             </v-card>
@@ -375,19 +375,19 @@ If you are interested, please contact me through discord
       <div class="main-banner-area rounded-xl pa-4 mb-4">
         <v-slide-group multiple show-arrows>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/4yhVk78l3tk" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/4yhVk78l3tk" target="_blank">
               <v-img src="g4.png"></v-img>
               <v-card-subtitle class="font-weight-bold">G3 Break Crazy Power Perna, he destroys everything with his power🤯🤯🤯</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/7HENE0I_u9M" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/7HENE0I_u9M" target="_blank">
               <v-img src="g5.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">EZ G3 Break, King of Power Chow🫡🫡🫡</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/jpqBYeIQl0g" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/jpqBYeIQl0g" target="_blank">
               <v-img src="g6.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">EZ G3 CC Break, OP Counter Haegang🤪🤪🤪</v-card-subtitle>
             </v-card>
@@ -416,19 +416,19 @@ If you are interested, please contact me through discord
       <div class="main-banner-area rounded-xl pa-4 mb-4">
         <v-slide-group multiple show-arrows>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/rUN2KL0aUpk" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/rUN2KL0aUpk" target="_blank">
               <v-img src="m4.png"></v-img>
               <v-card-subtitle class="font-weight-bold">Increase All Harmful effect, Pang × Gurkha Combo of fear Debut😵‍💫😵‍💫😵‍💫</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/mbDqiA_aOHw" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/mbDqiA_aOHw" target="_blank">
               <v-img src="m5.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">It's impossible to defeat them, Akroma × Borgnine combo debut🙃🙃🙃</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/mT0TIsJau3M" target="_blank">
+            <v-card hover ripple class="carousel-content-sp" href="https://youtu.be/mT0TIsJau3M" target="_blank">
               <v-img src="m6.png" style="position:relative"></v-img>
               <v-card-subtitle class="font-weight-bold">New Turn2 Weapon Res 100% Parjanya Debut🤩🤩🤩</v-card-subtitle>
             </v-card>
