@@ -131,7 +131,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}/`,
         },
       ],
     }

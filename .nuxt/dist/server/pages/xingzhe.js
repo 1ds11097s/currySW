@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=template&id=034cb65a
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=template&id=1d483164
 
 
 
 
 
 
-var xingzhevue_type_template_id_034cb65a_render = function render() {
+var xingzhevue_type_template_id_1d483164_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,7 +240,7 @@ var xingzhevue_type_template_id_034cb65a_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/xingzhe.vue?vue&type=template&id=034cb65a
+// CONCATENATED MODULE: ./pages/xingzhe.vue?vue&type=template&id=1d483164
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/xingzhe.vue?vue&type=script&lang=js
 /* harmony default export */ var xingzhevue_type_script_lang_js = ({
@@ -255,7 +255,7 @@ var staticRenderFns = [];
       title: "Xing Zhe(Wind Monkey King) - Monsters Report【Summoners War】",
       link: [{
         rel: 'canonical',
-        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}/`
       }]
     };
   }
@@ -275,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_xingzhevue_type_script_lang_js,
-  xingzhevue_type_template_id_034cb65a_render,
+  xingzhevue_type_template_id_1d483164_render,
   staticRenderFns,
   false,
   null,

@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/praha.vue?vue&type=template&id=1a5aab5e
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/praha.vue?vue&type=template&id=fd30078e
 
 
 
 
 
 
-var prahavue_type_template_id_1a5aab5e_render = function render() {
+var prahavue_type_template_id_fd30078e_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,7 +240,7 @@ var prahavue_type_template_id_1a5aab5e_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/praha.vue?vue&type=template&id=1a5aab5e
+// CONCATENATED MODULE: ./pages/praha.vue?vue&type=template&id=fd30078e
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/praha.vue?vue&type=script&lang=js
 /* harmony default export */ var prahavue_type_script_lang_js = ({
@@ -255,7 +255,7 @@ var staticRenderFns = [];
       title: "Praha(Water Oracle) - Monsters Report【Summoners War】",
       link: [{
         rel: 'canonical',
-        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}/`
       }]
     };
   }
@@ -275,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_prahavue_type_script_lang_js,
-  prahavue_type_template_id_1a5aab5e_render,
+  prahavue_type_template_id_fd30078e_render,
   staticRenderFns,
   false,
   null,
