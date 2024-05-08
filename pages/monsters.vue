@@ -54,6 +54,12 @@ export default {
   head() {
     return {
       title: "Monsters - CurrySW RTA Room【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

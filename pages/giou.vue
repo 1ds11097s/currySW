@@ -68,6 +68,12 @@ export default {
   head() {
     return {
       title: "Giou(Wind Onmyouji) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

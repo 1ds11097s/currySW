@@ -123,6 +123,12 @@ export default {
   head() {
     return {
       title: "Chow(Water Dragon Knight) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

@@ -75,6 +75,12 @@ export default {
   head() {
     return {
       title: "Feng Yan(Wind Panda Warrior) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

@@ -76,6 +76,12 @@ export default {
   head() {
     return {
       title: "Josephine(Water Paladin) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

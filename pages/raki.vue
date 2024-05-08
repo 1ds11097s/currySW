@@ -74,6 +74,12 @@ export default {
   head() {
     return {
       title: "Raki(Fire HellLady) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

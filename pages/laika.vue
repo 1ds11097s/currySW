@@ -76,6 +76,12 @@ export default {
   head() {
     return {
       title: "Laika(Fire Dragon Knight) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

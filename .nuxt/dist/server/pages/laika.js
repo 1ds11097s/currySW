@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/laika.vue?vue&type=template&id=2d899fee
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/laika.vue?vue&type=template&id=7dfc3d2e
 
 
 
 
 
 
-var laikavue_type_template_id_2d899fee_render = function render() {
+var laikavue_type_template_id_7dfc3d2e_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,14 +240,18 @@ var laikavue_type_template_id_2d899fee_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/laika.vue?vue&type=template&id=2d899fee
+// CONCATENATED MODULE: ./pages/laika.vue?vue&type=template&id=7dfc3d2e
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/laika.vue?vue&type=script&lang=js
 /* harmony default export */ var laikavue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "Laika(Fire Dragon Knight) - Monsters Report【Summoners War】"
+      title: "Laika(Fire Dragon Knight) - Monsters Report【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -266,7 +270,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_laikavue_type_script_lang_js,
-  laikavue_type_template_id_2d899fee_render,
+  laikavue_type_template_id_7dfc3d2e_render,
   staticRenderFns,
   false,
   null,

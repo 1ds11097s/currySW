@@ -77,6 +77,12 @@ export default {
   head() {
     return {
       title: "Rakan(Fire Chimera) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

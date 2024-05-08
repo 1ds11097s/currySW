@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=template&id=17aec8d4
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=template&id=43677a76
 
 
 
 
 
 
-var junovue_type_template_id_17aec8d4_render = function render() {
+var junovue_type_template_id_43677a76_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -295,14 +295,18 @@ var junovue_type_template_id_17aec8d4_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/juno.vue?vue&type=template&id=17aec8d4
+// CONCATENATED MODULE: ./pages/juno.vue?vue&type=template&id=43677a76
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/juno.vue?vue&type=script&lang=js
 /* harmony default export */ var junovue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "Juno(Fire Oracle) - Monsters Report【Summoners War】"
+      title: "Juno(Fire Oracle) - Monsters Report【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -321,7 +325,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_junovue_type_script_lang_js,
-  junovue_type_template_id_17aec8d4_render,
+  junovue_type_template_id_43677a76_render,
   staticRenderFns,
   false,
   null,

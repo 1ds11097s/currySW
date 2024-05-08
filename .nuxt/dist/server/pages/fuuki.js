@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fuuki.vue?vue&type=template&id=a0b6a6b4
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fuuki.vue?vue&type=template&id=36cb4386
 
 
 
 
 
 
-var fuukivue_type_template_id_a0b6a6b4_render = function render() {
+var fuukivue_type_template_id_36cb4386_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,14 +240,18 @@ var fuukivue_type_template_id_a0b6a6b4_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/fuuki.vue?vue&type=template&id=a0b6a6b4
+// CONCATENATED MODULE: ./pages/fuuki.vue?vue&type=template&id=36cb4386
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fuuki.vue?vue&type=script&lang=js
 /* harmony default export */ var fuukivue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "Fuuki(Wind Onimusha) - Monsters Report【Summoners War】"
+      title: "Fuuki(Wind Onimusha) - Monsters Report【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -266,7 +270,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_fuukivue_type_script_lang_js,
-  fuukivue_type_template_id_a0b6a6b4_render,
+  fuukivue_type_template_id_36cb4386_render,
   staticRenderFns,
   false,
   null,

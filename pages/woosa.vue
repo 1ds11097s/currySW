@@ -146,6 +146,12 @@ export default {
   head() {
     return {
       title: "Woosa(Water Pioneer) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

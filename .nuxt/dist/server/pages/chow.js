@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=template&id=5dca20a5
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=template&id=df5017f6
 
 
 
 
 
 
-var chowvue_type_template_id_5dca20a5_render = function render() {
+var chowvue_type_template_id_df5017f6_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -295,14 +295,18 @@ var chowvue_type_template_id_5dca20a5_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/chow.vue?vue&type=template&id=5dca20a5
+// CONCATENATED MODULE: ./pages/chow.vue?vue&type=template&id=df5017f6
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/chow.vue?vue&type=script&lang=js
 /* harmony default export */ var chowvue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "Chow(Water Dragon Knight) - Monsters Report【Summoners War】"
+      title: "Chow(Water Dragon Knight) - Monsters Report【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -321,7 +325,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_chowvue_type_script_lang_js,
-  chowvue_type_template_id_5dca20a5_render,
+  chowvue_type_template_id_df5017f6_render,
   staticRenderFns,
   false,
   null,

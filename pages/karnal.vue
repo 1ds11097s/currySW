@@ -76,6 +76,12 @@ export default {
   head() {
     return {
       title: "Karnal(Fire Slayer) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

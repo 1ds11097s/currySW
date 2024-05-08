@@ -78,6 +78,12 @@ export default {
   head() {
     return {
       title: "Mei Hou Wang(Fire Monkey King) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

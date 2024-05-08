@@ -17,12 +17,12 @@ var VCol = __webpack_require__(93);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rtanonrta.vue?vue&type=template&id=33b81448
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rtanonrta.vue?vue&type=template&id=0ce57f68
 
 
 
 
-var rtanonrtavue_type_template_id_33b81448_render = function render() {
+var rtanonrtavue_type_template_id_0ce57f68_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -316,14 +316,18 @@ var rtanonrtavue_type_template_id_33b81448_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/rtanonrta.vue?vue&type=template&id=33b81448
+// CONCATENATED MODULE: ./pages/rtanonrta.vue?vue&type=template&id=0ce57f68
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/rtanonrta.vue?vue&type=script&lang=js
 /* harmony default export */ var rtanonrtavue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "RTA & Non-RTA Service Detail - CurrySW RTA Room【Summoners War】"
+      title: "RTA & Non-RTA Service Detail - CurrySW RTA Room【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -342,7 +346,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_rtanonrtavue_type_script_lang_js,
-  rtanonrtavue_type_template_id_33b81448_render,
+  rtanonrtavue_type_template_id_0ce57f68_render,
   staticRenderFns,
   false,
   null,

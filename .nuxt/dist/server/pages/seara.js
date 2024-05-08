@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/seara.vue?vue&type=template&id=d69e7518
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/seara.vue?vue&type=template&id=08ccad54
 
 
 
 
 
 
-var searavue_type_template_id_d69e7518_render = function render() {
+var searavue_type_template_id_08ccad54_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,14 +240,18 @@ var searavue_type_template_id_d69e7518_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/seara.vue?vue&type=template&id=d69e7518
+// CONCATENATED MODULE: ./pages/seara.vue?vue&type=template&id=08ccad54
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/seara.vue?vue&type=script&lang=js
 /* harmony default export */ var searavue_type_script_lang_js = ({
   layout: "default",
   head() {
     return {
-      title: "Seara(Wind Oracle) - Monsters Report【Summoners War】"
+      title: "Seara(Wind Oracle) - Monsters Report【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`
+      }]
     };
   }
 });
@@ -266,7 +270,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_searavue_type_script_lang_js,
-  searavue_type_template_id_d69e7518_render,
+  searavue_type_template_id_08ccad54_render,
   staticRenderFns,
   false,
   null,

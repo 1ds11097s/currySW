@@ -77,6 +77,12 @@ export default {
   head() {
     return {
       title: "MemberShip Detail - CurrySW RTA Room【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }

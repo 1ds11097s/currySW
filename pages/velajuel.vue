@@ -82,6 +82,12 @@ export default {
   head() {
     return {
       title: "Velajuel(Fire Ark Angel) - Monsters Report【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}`,
+        },
+      ],
     }
   },
 }
