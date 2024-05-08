@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=template&id=a130e992
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=template&id=5bfaa328
 
 
 
 
 
 
-var leovue_type_template_id_a130e992_render = function render() {
+var leovue_type_template_id_5bfaa328_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,11 +240,16 @@ var leovue_type_template_id_a130e992_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/leo.vue?vue&type=template&id=a130e992
+// CONCATENATED MODULE: ./pages/leo.vue?vue&type=template&id=5bfaa328
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=script&lang=js
 /* harmony default export */ var leovue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
       title: "Leo(Wind Dragon Knight) - Monsters Report【Summoners War】",
@@ -270,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_leovue_type_script_lang_js,
-  leovue_type_template_id_a130e992_render,
+  leovue_type_template_id_5bfaa328_render,
   staticRenderFns,
   false,
   null,

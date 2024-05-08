@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/ophilia.vue?vue&type=template&id=37569b5c
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/ophilia.vue?vue&type=template&id=1693bb8d
 
 
 
 
 
 
-var ophiliavue_type_template_id_37569b5c_render = function render() {
+var ophiliavue_type_template_id_1693bb8d_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,11 +240,16 @@ var ophiliavue_type_template_id_37569b5c_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/ophilia.vue?vue&type=template&id=37569b5c
+// CONCATENATED MODULE: ./pages/ophilia.vue?vue&type=template&id=1693bb8d
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/ophilia.vue?vue&type=script&lang=js
 /* harmony default export */ var ophiliavue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
       title: "Ophilia(Fire Paladin) - Monsters Report【Summoners War】",
@@ -270,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_ophiliavue_type_script_lang_js,
-  ophiliavue_type_template_id_37569b5c_render,
+  ophiliavue_type_template_id_1693bb8d_render,
   staticRenderFns,
   false,
   null,

@@ -143,6 +143,11 @@ Since one shot teams are often slow, swift is more likely to be able to make the
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Woosa(Water Pioneer) - Monsters Report【Summoners War】",

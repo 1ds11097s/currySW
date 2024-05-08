@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/camilla.vue?vue&type=template&id=72e4733c
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/camilla.vue?vue&type=template&id=635d61a6
 
 
 
 
 
 
-var camillavue_type_template_id_72e4733c_render = function render() {
+var camillavue_type_template_id_635d61a6_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,11 +240,16 @@ var camillavue_type_template_id_72e4733c_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/camilla.vue?vue&type=template&id=72e4733c
+// CONCATENATED MODULE: ./pages/camilla.vue?vue&type=template&id=635d61a6
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/camilla.vue?vue&type=script&lang=js
 /* harmony default export */ var camillavue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
       title: "Camilla(Water Valkyrja) - Monsters Report【Summoners War】",
@@ -270,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_camillavue_type_script_lang_js,
-  camillavue_type_template_id_72e4733c_render,
+  camillavue_type_template_id_635d61a6_render,
   staticRenderFns,
   false,
   null,

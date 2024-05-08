@@ -72,6 +72,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Kaki(Fire Onimusha) - Monsters Report【Summoners War】",

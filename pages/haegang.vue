@@ -119,6 +119,11 @@ Note that he is not good at damage battles
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Haegang(Water Art Master) - Monsters Report【Summoners War】",

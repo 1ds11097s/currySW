@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=template&id=29e98724
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=template&id=7a33755a
 
 
 
 
 
 
-var josephinevue_type_template_id_29e98724_render = function render() {
+var josephinevue_type_template_id_7a33755a_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -240,11 +240,16 @@ var josephinevue_type_template_id_29e98724_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/josephine.vue?vue&type=template&id=29e98724
+// CONCATENATED MODULE: ./pages/josephine.vue?vue&type=template&id=7a33755a
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=script&lang=js
 /* harmony default export */ var josephinevue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
       title: "Josephine(Water Paladin) - Monsters Report【Summoners War】",
@@ -270,7 +275,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_josephinevue_type_script_lang_js,
-  josephinevue_type_template_id_29e98724_render,
+  josephinevue_type_template_id_7a33755a_render,
   staticRenderFns,
   false,
   null,

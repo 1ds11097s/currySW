@@ -20,13 +20,13 @@ var VCol = __webpack_require__(93);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=template&id=21f770a0
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=template&id=5912055e
 
 
 
 
 
-var membershipvue_type_template_id_21f770a0_render = function render() {
+var membershipvue_type_template_id_5912055e_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -138,11 +138,16 @@ var membershipvue_type_template_id_21f770a0_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/membership.vue?vue&type=template&id=21f770a0
+// CONCATENATED MODULE: ./pages/membership.vue?vue&type=template&id=5912055e
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/membership.vue?vue&type=script&lang=js
 /* harmony default export */ var membershipvue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
       title: "MemberShip Detail - CurrySW RTA Room【Summoners War】",
@@ -168,7 +173,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_membershipvue_type_script_lang_js,
-  membershipvue_type_template_id_21f770a0_render,
+  membershipvue_type_template_id_5912055e_render,
   staticRenderFns,
   false,
   null,

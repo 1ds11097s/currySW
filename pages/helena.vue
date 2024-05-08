@@ -76,6 +76,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Helena(Fire Unicorn) - Monsters Report【Summoners War】",

@@ -72,6 +72,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Bolverk(Water Emperor) - Monsters Report【Summoners War】",

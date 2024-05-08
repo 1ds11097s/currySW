@@ -70,6 +70,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Seara(Wind Oracle) - Monsters Report【Summoners War】",

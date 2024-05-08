@@ -72,6 +72,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Feng Yan(Wind Panda Warrior) - Monsters Report【Summoners War】",

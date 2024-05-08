@@ -74,6 +74,11 @@ You'll learn how to pick&ban</p></td>
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "MemberShip Detail - CurrySW RTA Room【Summoners War】",

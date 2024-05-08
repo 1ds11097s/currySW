@@ -120,6 +120,11 @@ You can also use him against teams using wind devil maiden, which is very popula
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Chow(Water Dragon Knight) - Monsters Report【Summoners War】",

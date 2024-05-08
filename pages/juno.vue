@@ -115,6 +115,11 @@ I tend to use her in the last pick after I have a complete idea of the enemy tea
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Juno(Fire Oracle) - Monsters Report【Summoners War】",

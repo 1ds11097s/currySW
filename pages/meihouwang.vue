@@ -75,6 +75,11 @@
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Mei Hou Wang(Fire Monkey King) - Monsters Report【Summoners War】",

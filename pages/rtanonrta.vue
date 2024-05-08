@@ -236,6 +236,11 @@ You have priority to start using the service immediately</p></td>
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "RTA & Non-RTA Service Detail - CurrySW RTA Room【Summoners War】",
