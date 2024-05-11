@@ -5,16 +5,46 @@
       <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">Belial(Water Demon)</div>
       <v-row justify="center" class="main-banner-area rounded-xl pa-4 mb-4">
         <v-col cols="12" style="color:white">
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SET</div>
-            <span>VIO & WILL</span><br>
-            <span>VIO & BLADE</span>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND RUNE SLOT</div>
-            <span>2 - ATK 4 - CRDMG 6 - ATK</span><br>
-          <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">RECOMMEND ARTIFACT OPTION</div>
-            <span>Damage Dealt on Wind</span><br>
-            <span>ATK Increased Proportional to Lost HP up to x%</span><br>
-            <span>CRIT DMG+ up to x% as the enemy's HP condition is good</span><br>
-            <span>Skill 2 CRIT DMG +x%</span>
+        <div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">About the runes.</div>
+I recommend vio, will.
+atk,atk, crdmg is fine
+Using nem could be interesting.
+His cri rate needs to be maxed out, so if you build with viowill, you can use blade if that is difficult
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about artifacts</div>
+I recommend to use CD+ as more enemy HP, ATK+prop lost HP, or any other option that increases damage.
+The options on the right should be options that enhance crdmg as well.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about priority status</div>
+Prioritize statuses in order of atk, crdmg, cri rate, speed, res, hp, def, acc
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about atk</div>
+Aim for +2k in the end
+Anyway, the higher the atk, the better
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about crdmg</div>
+Same as atk, the higher the better
+Aim for 200%.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about cri rate</div>
+Third priority, but always set it to 100%.
+If you make a mistake at a critical moment, you are more likely to lose.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">about speed</div>
+Actually, speed is also very important.
+I have seen many players' speed in belial, and many of them are slow in his speed.
+If you can give a def break to the enemy before he moves, you can easily defeat him with his skill2.
+But if his speed is too slow, the enemy monster is likely to move first, so the def break will be removed.
+For example, I adjust the speed difference between feng yan, mo long and belial so that there is not much difference between them.
+
+<div class="headline font-weight-bold my-6 text-uppercase" style="font-family: Anton!important;">Usage</div>
+I think he can be used anywhere except cc team
+If the enemy is a cc team, you need to use other monsters.
+You need to counter and stop the enemy, which he can't do
+It's effective against top tier monsters like vanessa, camilla, miles, etc.
+To use him, you need to have other monsters with high durability.
+If no other monsters are killed, he can revive and use his skill2 as many times as he wants.
+Otherwise, it's not recommended to use him for your team
           <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">VIDEOS</div>
           <v-row justify="center" class="main-banner-area rounded-xl pa-4">
             <template v-if="$vuetify.breakpoint.mdAndUp">

@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=448ab762
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=template&id=296973e8
 
 
 
 
 
 
-var belialvue_type_template_id_448ab762_render = function render() {
+var belialvue_type_template_id_296973e8_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,46 @@ var belialvue_type_template_id_448ab762_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VIO & BLADE")]), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("About the runes.")]), _vm._v("\nI recommend vio, will.\natk,atk, crdmg is fine\nUsing nem could be interesting.\nHis cri rate needs to be maxed out, so if you build with viowill, you can use blade if that is difficult\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - ATK 4 - CRDMG 6 - ATK")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("about artifacts")]), _vm._v("\nI recommend to use CD+ as more enemy HP, ATK+prop lost HP, or any other option that increases damage.\nThe options on the right should be options that enhance crdmg as well.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Wind")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("ATK Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("CRIT DMG+ up to x% as the enemy's HP condition is good")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 CRIT DMG +x%")]), _vm._v(" "), _c('div', {
+  }, [_vm._v("about priority status")]), _vm._v("\nPrioritize statuses in order of atk, crdmg, cri rate, speed, res, hp, def, acc\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about atk")]), _vm._v("\nAim for +2k in the end\nAnyway, the higher the atk, the better\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about crdmg")]), _vm._v("\nSame as atk, the higher the better\nAim for 200%.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about cri rate")]), _vm._v("\nThird priority, but always set it to 100%.\nIf you make a mistake at a critical moment, you are more likely to lose.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about speed")]), _vm._v("\nActually, speed is also very important.\nI have seen many players' speed in belial, and many of them are slow in his speed.\nIf you can give a def break to the enemy before he moves, you can easily defeat him with his skill2.\nBut if his speed is too slow, the enemy monster is likely to move first, so the def break will be removed.\nFor example, I adjust the speed difference between feng yan, mo long and belial so that there is not much difference between them.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nI think he can be used anywhere except cc team\nIf the enemy is a cc team, you need to use other monsters.\nYou need to counter and stop the enemy, which he can't do\nIt's effective against top tier monsters like vanessa, camilla, miles, etc.\nTo use him, you need to have other monsters with high durability.\nIf no other monsters are killed, he can revive and use his skill2 as many times as he wants.\nOtherwise, it's not recommended to use him for your team\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +265,7 @@ var belialvue_type_template_id_448ab762_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=448ab762
+// CONCATENATED MODULE: ./pages/belial.vue?vue&type=template&id=296973e8
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/belial.vue?vue&type=script&lang=js
 /* harmony default export */ var belialvue_type_script_lang_js = ({
@@ -275,7 +300,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_belialvue_type_script_lang_js,
-  belialvue_type_template_id_448ab762_render,
+  belialvue_type_template_id_296973e8_render,
   staticRenderFns,
   false,
   null,

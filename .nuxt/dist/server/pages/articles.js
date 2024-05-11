@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/articles.vue?vue&type=template&id=b83d8dc0
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/articles.vue?vue&type=template&id=787771ac
 
 
 
 
 
 
-var articlesvue_type_template_id_b83d8dc0_render = function render() {
+var articlesvue_type_template_id_787771ac_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -103,7 +103,25 @@ var articlesvue_type_template_id_b83d8dc0_render = function render() {
     attrs: {
       "cols": "4"
     }
-  })], 1), _vm._v(" "), _c('div', {
+  }, [_c(VCard["a" /* default */], {
+    staticStyle: {
+      "height": "100%"
+    },
+    attrs: {
+      "hover": "",
+      "ripple": "",
+      "href": "#3"
+    }
+  }, [_c(VImg["a" /* default */], {
+    staticStyle: {
+      "position": "relative"
+    },
+    attrs: {
+      "src": "article3.png"
+    }
+  }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
+    staticClass: "font-weight-bold"
+  }, [_vm._v("Recommendations for rta beginners")])], 1)], 1)], 1), _vm._v(" "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -125,7 +143,20 @@ var articlesvue_type_template_id_b83d8dc0_render = function render() {
       "id": "2"
     }
   }, [_vm._v("What's important in RTA")]), _vm._v(" "), _c(VRow["a" /* default */], {
-    staticClass: "main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4",
+    staticClass: "main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4",
+    attrs: {
+      "justify": "center"
+    }
+  }, [_vm._v("\n      Here are three important things to remember about rta"), _c('br'), _c('br'), _vm._v("\nFirst"), _c('br'), _vm._v("\nStrengthen your mentality"), _c('br'), _vm._v("\nrune and monster are important, but the most important thing is mentality"), _c('br'), _vm._v("\nBeing able to pick and bang calmly will raise your rank"), _c('br'), _vm._v("\nIt's not easy to strengthen your mentality, but my recommendation is streaming"), _c('br'), _vm._v("\nStreaming and talking with your audience is much less stressful than playing alone"), _c('br'), _c('br'), _vm._v("\n\nSecond"), _c('br'), _vm._v("\nAnalyze your losses"), _c('br'), _vm._v("\nAnalyze what went wrong so that the next time you play against a similar opponent, you'll lose in a different way than the last time, and you'll be fine"), _c('br'), _vm._v("\nIt's important to try different things to find out what the answer is"), _c('br'), _vm._v("\nThere are many similar enemies, so if you don't analyze, you'll end up losing the same way"), _c('br'), _c('br'), _vm._v("\n\nThird"), _c('br'), _vm._v("\nFind players who have the same picks as you and add them to your favorites"), _c('br'), _vm._v("\nYou can learn a lot from other players about their picks, bans and drafts that you might not have thought of on your own"), _c('br'), _vm._v("\nIt would be nice to be able to ask that player questions if possible"), _c('br'), _vm._v("\nEven if you are making similar picks, a slight difference in the order of your picks can change the outcome"), _c('br'), _vm._v("\nEven if you use the monster from the second pick in the last pick, the enemy's picks will change, and you can reach a higher rank by learning such a strategy"), _c('br')]), _vm._v(" "), _c('div', {
+    staticClass: "headline font-weight-bold my-6",
+    staticStyle: {
+      "font-family": "Anton!important"
+    },
+    attrs: {
+      "id": "3"
+    }
+  }, [_vm._v("Recommendations for rta beginners")]), _vm._v(" "), _c(VRow["a" /* default */], {
+    staticClass: "main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4",
     attrs: {
       "justify": "center"
     }
@@ -182,7 +213,25 @@ var articlesvue_type_template_id_b83d8dc0_render = function render() {
     attrs: {
       "cols": "12"
     }
-  })], 1), _vm._v(" "), _c('div', {
+  }, [_c(VCard["a" /* default */], {
+    staticStyle: {
+      "height": "100%"
+    },
+    attrs: {
+      "hover": "",
+      "ripple": "",
+      "href": "#3"
+    }
+  }, [_c(VImg["a" /* default */], {
+    staticStyle: {
+      "position": "relative"
+    },
+    attrs: {
+      "src": "article3.png"
+    }
+  }), _vm._v(" "), _c(components_VCard["a" /* VCardSubtitle */], {
+    staticClass: "font-weight-bold"
+  }, [_vm._v("Recommendations for rta beginners")])], 1)], 1)], 1), _vm._v(" "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -204,7 +253,20 @@ var articlesvue_type_template_id_b83d8dc0_render = function render() {
       "id": "2"
     }
   }, [_vm._v("What's important in RTA")]), _vm._v(" "), _c(VRow["a" /* default */], {
-    staticClass: "main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4",
+    staticClass: "main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4",
+    attrs: {
+      "justify": "center"
+    }
+  }, [_vm._v("\n      Here are three important things to remember about rta"), _c('br'), _c('br'), _vm._v("\nFirst"), _c('br'), _vm._v("\nStrengthen your mentality"), _c('br'), _vm._v("\nrune and monster are important, but the most important thing is mentality"), _c('br'), _vm._v("\nBeing able to pick and bang calmly will raise your rank"), _c('br'), _vm._v("\nIt's not easy to strengthen your mentality, but my recommendation is streaming"), _c('br'), _vm._v("\nStreaming and talking with your audience is much less stressful than playing alone"), _c('br'), _c('br'), _vm._v("\n\nSecond"), _c('br'), _vm._v("\nAnalyze your losses"), _c('br'), _vm._v("\nAnalyze what went wrong so that the next time you play against a similar opponent, you'll lose in a different way than the last time, and you'll be fine"), _c('br'), _vm._v("\nIt's important to try different things to find out what the answer is"), _c('br'), _vm._v("\nThere are many similar enemies, so if you don't analyze, you'll end up losing the same way"), _c('br'), _c('br'), _vm._v("\n\nThird"), _c('br'), _vm._v("\nFind players who have the same picks as you and add them to your favorites"), _c('br'), _vm._v("\nYou can learn a lot from other players about their picks, bans and drafts that you might not have thought of on your own"), _c('br'), _vm._v("\nIt would be nice to be able to ask that player questions if possible"), _c('br'), _vm._v("\nEven if you are making similar picks, a slight difference in the order of your picks can change the outcome"), _c('br'), _vm._v("\nEven if you use the monster from the second pick in the last pick, the enemy's picks will change, and you can reach a higher rank by learning such a strategy"), _c('br')]), _vm._v(" "), _c('div', {
+    staticClass: "headline font-weight-bold my-6",
+    staticStyle: {
+      "font-family": "Anton!important"
+    },
+    attrs: {
+      "id": "3"
+    }
+  }, [_vm._v("Recommendations for rta beginners")]), _vm._v(" "), _c(VRow["a" /* default */], {
+    staticClass: "main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4",
     attrs: {
       "justify": "center"
     }
@@ -216,14 +278,23 @@ var articlesvue_type_template_id_b83d8dc0_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/articles.vue?vue&type=template&id=b83d8dc0
+// CONCATENATED MODULE: ./pages/articles.vue?vue&type=template&id=787771ac
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/articles.vue?vue&type=script&lang=js
 /* harmony default export */ var articlesvue_type_script_lang_js = ({
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1);
+    }
+  },
   head() {
     return {
-      title: "Articles - CurrySW RTA Room【Summoners War】"
+      title: "Articles - CurrySW RTA Room【Summoners War】",
+      link: [{
+        rel: 'canonical',
+        href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}/`
+      }]
     };
   }
 });
@@ -242,7 +313,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_articlesvue_type_script_lang_js,
-  articlesvue_type_template_id_b83d8dc0_render,
+  articlesvue_type_template_id_787771ac_render,
   staticRenderFns,
   false,
   null,

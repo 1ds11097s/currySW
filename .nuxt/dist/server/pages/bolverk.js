@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/bolverk.vue?vue&type=template&id=6b744bfa
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/bolverk.vue?vue&type=template&id=37f79b85
 
 
 
 
 
 
-var bolverkvue_type_template_id_6b744bfa_render = function render() {
+var bolverkvue_type_template_id_37f79b85_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,66 @@ var bolverkvue_type_template_id_6b744bfa_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("SHIELD & WILL & REVENGE")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("about the runes")]), _vm._v("\nI recommend vio, will.\nIf stats are not enough, a combination like shield, will, revenge would be fine.\nI think you should use will, but any other combination is fine.\nCombinations like desprev are also interesting.\nFor a turn2 like me, hp,hp,hp is recommended, but if your team's average speed is +150 or so, his speed should be that fast too.\nIn that case, I recommend spd,hp,hp.\nSince there are more and more players who use sonia, it might be interesting to def slot 4 and 6 and trap them.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - SPD 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("about artifacts")]), _vm._v("\nI recommend hp or def as the main option.\nDMG taken from water or wind is recommended for the left option\nRight option is recommended to increase acc of skill1\nThe ability to make his skill1 work well can make the difference between winning and losing\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("DEF Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Water -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 3 Recovery +x%")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("about priority status")]), _vm._v("\nPrioritize statuses in the following order: hp, def, res, speed, acc, atk, cri rate, crdmg\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about hp")]), _vm._v("\nAim for +40k in the end\nHis current hp is lower than that due to sonia measures, but I'm trying to get it back down.\nAt higher ranks, even with this def, he will not be able to prevent sonia attacks, so I think it's better to increase his hp.\nOtherwise he will be easily defeated.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about def")]), _vm._v("\nAim for +700 in the end.\nIf you want to prevent sonia, I think +1200 is good.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about res")]), _vm._v("\nmax is recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about speed")]), _vm._v("\nIt depends on your team's speed, but in my case, belial and mo long move after he moves.\nSo I need about +100.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about acc")]), _vm._v("\nNot high priority, but necessary.\nAim for about 30%.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nNot necessary.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("cri rate")]), _vm._v("\nNot necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("crdmg")]), _vm._v("\nNot necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nUse him if the enemy is turn2 team\nIf you use him, you basically pick him with aaliyah\nSpecifically, if the enemy picks moore or oliver first, I don't use him much.\nIf the enemy picks vanessa or mo long first, use him.\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +285,7 @@ var bolverkvue_type_template_id_6b744bfa_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/bolverk.vue?vue&type=template&id=6b744bfa
+// CONCATENATED MODULE: ./pages/bolverk.vue?vue&type=template&id=37f79b85
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/bolverk.vue?vue&type=script&lang=js
 /* harmony default export */ var bolverkvue_type_script_lang_js = ({
@@ -275,7 +320,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_bolverkvue_type_script_lang_js,
-  bolverkvue_type_template_id_6b744bfa_render,
+  bolverkvue_type_template_id_37f79b85_render,
   staticRenderFns,
   false,
   null,

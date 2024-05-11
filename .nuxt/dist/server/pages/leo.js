@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=template&id=73c6fdaf
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=template&id=a7ea51c0
 
 
 
 
 
 
-var leovue_type_template_id_73c6fdaf_render = function render() {
+var leovue_type_template_id_a7ea51c0_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,56 @@ var leovue_type_template_id_73c6fdaf_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & NEMESIS")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VAMP & NEMESIS")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("DESPAIR & REVENGE")]), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("About rune")]), _vm._v("\nI think the most famous ones are vio and vamp, but I recommend desp and rev.\nIf you use vio, I recommend him with turn1 team\nIf you use vamp, I recommend him with turn2 team\ndesp and his passive are very good together\nFor example, if there is an enemy monster who has no will set, you can get a big advantage if you can stun it first.\nEspecially against cc team, if you can do it, the enemy may surrender.\nVamp can work well later in the game, but I think desp is more advantageous.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRDMG 6 - ATK")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRDMG 6 - HP")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("About artifact")]), _vm._v("\nI recommend hp as the main option.\nFor the left sub-option, I recommend DMG taken from fire.\nFor the sub option on the right, I recommend increasing the crdmg of skill1 and skill2.\nDMG taken from fire is necessary because you are often targeted by kassandra, verde, masha, etc.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Wind")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Water")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("CRIT DMG+ up to x% as the enemy's HP condition is good")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("CRIT DMG+ up to x% as the enemy's HP condition is bad")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 CRIT DMG +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 CRIT DMG +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Fire -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("ATK Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("DEF Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Single-target skill CRIT DMG x% on your turn")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("about the priority status")]), _vm._v("\nPrioritize statuses in order of res, hp, def, cri rate, crdmg, atk, acc\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("About hp")]), _vm._v("\nI think you should aim for +25k in the end.\n(It depends on the rank range you are aiming for, but +20k or more is necessary.\nEspecially, you need more hp to avoid being defeated by kassandra's attack.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("About def")]), _vm._v("\nThere is no specific value to aim for, but +700 or more is necessary.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about atk")]), _vm._v("\nAim for +500 or so, although this is not a priority.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("about speed")]), _vm._v("\nNot necessary.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("About res")]), _vm._v("\nmax is recommended\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("About acc")]), _vm._v("\nLow priority, but 10% is necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("usage")]), _vm._v("\nIf the enemy uses cc team, miles, beast rider, chimera, etc., always pick him.\nBasically, my team's monsters are slow, so I always pick him against enemies who are likely to have a big speed difference.\nI often use it with riley\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +275,7 @@ var leovue_type_template_id_73c6fdaf_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/leo.vue?vue&type=template&id=73c6fdaf
+// CONCATENATED MODULE: ./pages/leo.vue?vue&type=template&id=a7ea51c0
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/leo.vue?vue&type=script&lang=js
 /* harmony default export */ var leovue_type_script_lang_js = ({
@@ -275,7 +310,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_leovue_type_script_lang_js,
-  leovue_type_template_id_73c6fdaf_render,
+  leovue_type_template_id_a7ea51c0_render,
   staticRenderFns,
   false,
   null,

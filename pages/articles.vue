@@ -17,6 +17,10 @@
           </v-card>
         </v-col>
         <v-col cols="4">
+          <v-card hover ripple style="height:100%" href="#3">
+            <v-img src="article3.png" style="position:relative"></v-img>
+            <v-card-subtitle class="font-weight-bold">Recommendations for rta beginners</v-card-subtitle>
+          </v-card>
         </v-col>
       </v-row>
       <div id="1" class="headline font-weight-bold my-6" style="font-family: Anton!important;">Make turn2 work well, Introduction of methods</div>
@@ -51,7 +55,30 @@ If you don't get your leo banned, it's not a problem, but basically turn1 and CC
 So, to win in such a situation, you need a monster with high speed.</p>
       </v-row>
       <div id="2" class="headline font-weight-bold my-6" style="font-family: Anton!important;">What's important in RTA</div>
-      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
+      <v-row justify="center" class="main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4">
+      Here are three important things to remember about rta<br><br>
+First<br>
+Strengthen your mentality<br>
+rune and monster are important, but the most important thing is mentality<br>
+Being able to pick and bang calmly will raise your rank<br>
+It's not easy to strengthen your mentality, but my recommendation is streaming<br>
+Streaming and talking with your audience is much less stressful than playing alone<br><br>
+
+Second<br>
+Analyze your losses<br>
+Analyze what went wrong so that the next time you play against a similar opponent, you'll lose in a different way than the last time, and you'll be fine<br>
+It's important to try different things to find out what the answer is<br>
+There are many similar enemies, so if you don't analyze, you'll end up losing the same way<br><br>
+
+Third<br>
+Find players who have the same picks as you and add them to your favorites<br>
+You can learn a lot from other players about their picks, bans and drafts that you might not have thought of on your own<br>
+It would be nice to be able to ask that player questions if possible<br>
+Even if you are making similar picks, a slight difference in the order of your picks can change the outcome<br>
+Even if you use the monster from the second pick in the last pick, the enemy's picks will change, and you can reach a higher rank by learning such a strategy<br>
+      </v-row>
+      <div id="3" class="headline font-weight-bold my-6" style="font-family: Anton!important;">Recommendations for rta beginners</div>
+      <v-row justify="center" class="main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4">
       </v-row>
       </template>
       <template v-else>
@@ -69,7 +96,10 @@ So, to win in such a situation, you need a monster with high speed.</p>
           </v-card>
         </v-col>
         <v-col cols="12">
-          
+          <v-card hover ripple style="height:100%" href="#3">
+            <v-img src="article3.png" style="position:relative"></v-img>
+            <v-card-subtitle class="font-weight-bold">Recommendations for rta beginners</v-card-subtitle>
+          </v-card>
         </v-col>
       </v-row>
       <div id="1" class="headline font-weight-bold my-6" style="font-family: Anton!important;">Make turn2 work well, Introduction of methods</div>
@@ -104,7 +134,30 @@ If you don't get your leo banned, it's not a problem, but basically turn1 and CC
 So, to win in such a situation, you need a monster with high speed.</p>
       </v-row>
       <div id="2" class="headline font-weight-bold my-6" style="font-family: Anton!important;">What's important in RTA</div>
-      <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
+      <v-row justify="center" class="main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4">
+      Here are three important things to remember about rta<br><br>
+First<br>
+Strengthen your mentality<br>
+rune and monster are important, but the most important thing is mentality<br>
+Being able to pick and bang calmly will raise your rank<br>
+It's not easy to strengthen your mentality, but my recommendation is streaming<br>
+Streaming and talking with your audience is much less stressful than playing alone<br><br>
+
+Second<br>
+Analyze your losses<br>
+Analyze what went wrong so that the next time you play against a similar opponent, you'll lose in a different way than the last time, and you'll be fine<br>
+It's important to try different things to find out what the answer is<br>
+There are many similar enemies, so if you don't analyze, you'll end up losing the same way<br><br>
+
+Third<br>
+Find players who have the same picks as you and add them to your favorites<br>
+You can learn a lot from other players about their picks, bans and drafts that you might not have thought of on your own<br>
+It would be nice to be able to ask that player questions if possible<br>
+Even if you are making similar picks, a slight difference in the order of your picks can change the outcome<br>
+Even if you use the monster from the second pick in the last pick, the enemy's picks will change, and you can reach a higher rank by learning such a strategy<br>
+      </v-row>
+      <div id="3" class="headline font-weight-bold my-6" style="font-family: Anton!important;">Recommendations for rta beginners</div>
+      <v-row justify="center" class="main-banner-area rounded-xl subtitle-1 white--text pa-4 mb-4">
       </v-row>
       </template>
       <template>
@@ -117,9 +170,20 @@ So, to win in such a situation, you need a monster with high speed.</p>
 <script>
 export default {
   layout: "default",
+  computed: {
+    currentPageForCanonical() {
+      return this.$route.path.slice(1)
+    }
+  },
   head() {
     return {
       title: "Articles - CurrySW RTA Room【Summoners War】",
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://summoners-war-reference-book.xyz/${this.currentPageForCanonical}/`,
+        },
+      ],
     }
   },
 }

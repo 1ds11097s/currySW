@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fengyan.vue?vue&type=template&id=110df03d
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fengyan.vue?vue&type=template&id=23a90a32
 
 
 
 
 
 
-var fengyanvue_type_template_id_110df03d_render = function render() {
+var fengyanvue_type_template_id_23a90a32_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,66 @@ var fengyanvue_type_template_id_110df03d_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("VAMP & WILL")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regading runes")]), _vm._v("\nI would recommend vio, will.\nSome players use vamp, but I find vio easier to use.\nI think it depends on your playstyle.\nAlso, there are sometimes players who use rev\nBeing able to fight back with his skill2 as well as the effect of rune is surprisingly powerful\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - DEF 4 - HP 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - DEF 4 - DEF 6 - DEF")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nI recommend hp or def as the main option\nCheck stats when runed\nIf hp is too low, set main option to hp and if def is too low, set it to def\nFor the left sub-option, I recommend additional damage by def\nOr fire damage cut is also recommended\nIf you are not good at one shot monsters like kassandra, you may want to use it\nFor the sub-option on the right, I recommend additional damage by def\nor skill1 acc is also recommended.\nIf you can use additional damage by both sub-options, he can work as a strong damage dealer.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("DEF Increased Proportional to Lost HP up to x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Fire -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Additional Damage by x% of DEF")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nPrioritize statuses in order of def, hp, res, acc, spd, atk, cri rate, crdmg.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAiming for +20k in the end\nYou need to have enough hp to not be knocked down by kassandra or seara attacks\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAim for +2k in the end.\n(hp is also necessary, but the amount of damage depends on the def)\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nmax is recommended, but it depends on your rank.\nIf you are aiming for p3 or g1 or higher, it'ss better to max it out.\nIf your rank is lower than that, please improve def and hp first.\nres is an important status, but you need to have a basic status first.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nIt's not necessary to increase the speed because the gauge is increased by passive.\nIt depends on the speed of your team.\nIn my case, I try to move before belial and perna.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nIdeally, max, but it's not a priority, so aim for 30 to 40.\nHis def break is very important.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nNot necessary\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nNot necessary.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\nNot required\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nIt's recommended to use when the enemy is turn2\nEspecially I used with aaliyah\nIt can easily defeat vanessa, camilla, fire monkey, etc.\nHowever, in order to defeat them easily, you need to have max res and high acc.\nOther than that, I recommend to use him with the last pick after seeing the team on the enemy.\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +285,7 @@ var fengyanvue_type_template_id_110df03d_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/fengyan.vue?vue&type=template&id=110df03d
+// CONCATENATED MODULE: ./pages/fengyan.vue?vue&type=template&id=23a90a32
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/fengyan.vue?vue&type=script&lang=js
 /* harmony default export */ var fengyanvue_type_script_lang_js = ({
@@ -275,7 +320,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_fengyanvue_type_script_lang_js,
-  fengyanvue_type_template_id_110df03d_render,
+  fengyanvue_type_template_id_23a90a32_render,
   staticRenderFns,
   false,
   null,

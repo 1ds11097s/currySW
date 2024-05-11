@@ -23,14 +23,14 @@ var VImg = __webpack_require__(50);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=template&id=2b60be38
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=template&id=479e8262
 
 
 
 
 
 
-var josephinevue_type_template_id_2b60be38_render = function render() {
+var josephinevue_type_template_id_479e8262_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -70,21 +70,66 @@ var josephinevue_type_template_id_2b60be38_render = function render() {
       "cols": "12"
     }
   }, [_c('div', {
-    staticClass: "headline font-weight-bold my-6",
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SET")]), _vm._v(" "), _c('span', [_vm._v("VIO & WILL")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regading runes")]), _vm._v("\nI would recommend vio, will.\nSwift might be interesting too, although it's pretty irregular.\nIf you can move before any of the enemy monsters, you might be able to stop them with skill2\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND RUNE SLOT")]), _vm._v(" "), _c('span', [_vm._v("2 - SPD 4 - CRI DMG 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRI DMG 6 - HP")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("2 - HP 4 - CRI DMG 6 - ATK")]), _c('br'), _vm._v(" "), _c('div', {
-    staticClass: "headline font-weight-bold my-6",
+  }, [_vm._v("regarding artifacts")]), _vm._v("\nI think any of the main options would be fine.\nI think hp or def is good for turn2\nIt's important to make sure she doesn't get knocked down\nFor turn1 you may want to use atk because you need to do more damage\nhp is necessary to avoid being knocked down by sonia's attack, so please set your main option to hp\nI recommend wind damage cut for the left sub-option\ncrdmg increase option would also be good\nright sub option is recommended to increase skill1 or 2 acc\nPlease adjust to max in combination with leader skill\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
     staticStyle: {
       "font-family": "Anton!important"
     }
-  }, [_vm._v("RECOMMEND ARTIFACT OPTION")]), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Fire +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Dealt on Wind +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 2 Accuracy +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Skill 1 CRIT DMG +x%")]), _c('br'), _vm._v(" "), _c('span', [_vm._v("Damage Received from Wind -x%")]), _c('br'), _vm._v(" "), _c('div', {
+  }, [_vm._v("Priority of statuses")]), _vm._v("\nPrioritize the statuses in the following order: hp, def, speed, acc, atk, crdmg, res, cri rate.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for hp")]), _vm._v("\nAim for +25k in the end.\nBalance is important for this monster, so try different things\nBy doing so, you'll know what hp you should aim for\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for def")]), _vm._v("\nAs with hp, try various things to find the best def\nI think you should aim for +700 or more.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for res")]), _vm._v("\nI set it to max, but it's not my priority.\nShe can remove stun with passive, but that's not the only way to debuff enemies.\nYou need to be especially careful with def break.\nThat's why I have her res maxed.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for speed")]), _vm._v("\nI think you need about +150 for turn1, otherwise +100 is fine.\nPlease improve other stats rather than speed.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for acc")]), _vm._v("\nAim for about 40\nIt's necessary to use her leader skill to max it out.\nI often use karnal's leader skill, but it may not be useful against cc teams.\nSometimes it's more important to use her leader skills to make the right counters\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for atk")]), _vm._v("\nAim for +500 or higher\nIt's not a high priority.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for cri rate")]), _vm._v("\nNot necessary.\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("for crdmg")]), _vm._v("\n130% is sufficient\n\n"), _c('div', {
+    staticClass: "headline font-weight-bold my-6 text-uppercase",
+    staticStyle: {
+      "font-family": "Anton!important"
+    }
+  }, [_vm._v("Usage")]), _vm._v("\nBasically used against for cc teams\nFor example, for valantis, giana, moore, etc.\nBut if the enemy is using supporters, she may be useless.\nThe first time she may be able to use her passive effect to stop the enemy monster, but then she may be countered.\nIn that case, her passive's cooltime may not have come back, so the situation may become less effective\n          "), _c('div', {
     staticClass: "headline font-weight-bold my-6",
     staticStyle: {
       "font-family": "Anton!important"
@@ -240,7 +285,7 @@ var josephinevue_type_template_id_2b60be38_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/josephine.vue?vue&type=template&id=2b60be38
+// CONCATENATED MODULE: ./pages/josephine.vue?vue&type=template&id=479e8262
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/josephine.vue?vue&type=script&lang=js
 /* harmony default export */ var josephinevue_type_script_lang_js = ({
@@ -275,7 +320,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_josephinevue_type_script_lang_js,
-  josephinevue_type_template_id_2b60be38_render,
+  josephinevue_type_template_id_479e8262_render,
   staticRenderFns,
   false,
   null,
