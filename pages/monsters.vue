@@ -39,6 +39,7 @@
           <h3>Light</h3>
           <v-btn text color="blue" class="font-weight-bold" href="/elsharion">Elsharion(Light Ifrit)</v-btn>
           <h3>Dark</h3>
+          <v-btn text color="blue" class="font-weight-bold" href="/gapsoo">Gapsoo(Dark Dokkaebi Lord)</v-btn>
         </v-col>
       </v-row>
       <template>

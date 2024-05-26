@@ -13,6 +13,7 @@ const _cc103c0e = () => interopDefault(import('..\\pages\\diana.vue' /* webpackC
 const _4d810b76 = () => interopDefault(import('..\\pages\\elsharion.vue' /* webpackChunkName: "pages/elsharion" */))
 const _50885378 = () => interopDefault(import('..\\pages\\fengyan.vue' /* webpackChunkName: "pages/fengyan" */))
 const _8344a4a4 = () => interopDefault(import('..\\pages\\fuuki.vue' /* webpackChunkName: "pages/fuuki" */))
+const _19c51da3 = () => interopDefault(import('..\\pages\\gapsoo.vue' /* webpackChunkName: "pages/gapsoo" */))
 const _654f7eee = () => interopDefault(import('..\\pages\\giou.vue' /* webpackChunkName: "pages/giou" */))
 const _da0a4a2e = () => interopDefault(import('..\\pages\\haegang.vue' /* webpackChunkName: "pages/haegang" */))
 const _4eeb8fe2 = () => interopDefault(import('..\\pages\\helena.vue' /* webpackChunkName: "pages/helena" */))
@@ -87,6 +88,10 @@ export const routerOptions = {
     path: "/fuuki",
     component: _8344a4a4,
     name: "fuuki"
+  }, {
+    path: "/gapsoo",
+    component: _19c51da3,
+    name: "gapsoo"
   }, {
     path: "/giou",
     component: _654f7eee,

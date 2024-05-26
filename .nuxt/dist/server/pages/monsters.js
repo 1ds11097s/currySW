@@ -1,7 +1,7 @@
-exports.ids = [25];
+exports.ids = [26];
 exports.modules = {
 
-/***/ 128:
+/***/ 129:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17,12 +17,12 @@ var VCol = __webpack_require__(93);
 // EXTERNAL MODULE: ./node_modules/vuetify/lib/components/VGrid/VRow.js
 var VRow = __webpack_require__(92);
 
-// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=template&id=eb9efcce
+// CONCATENATED MODULE: ./node_modules/vuetify-loader/lib/loader.js??ref--4!./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--7!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=template&id=6a0164ae
 
 
 
 
-var monstersvue_type_template_id_eb9efcce_render = function render() {
+var monstersvue_type_template_id_6a0164ae_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c(VRow["a" /* default */], {
@@ -264,7 +264,14 @@ var monstersvue_type_template_id_eb9efcce_render = function render() {
       "color": "blue",
       "href": "/elsharion"
     }
-  }, [_vm._v("Elsharion(Light Ifrit)")]), _vm._v(" "), _c('h3', [_vm._v("Dark")])], 1)], 1), _vm._v(" "), [_c('adsbygoogle', {
+  }, [_vm._v("Elsharion(Light Ifrit)")]), _vm._v(" "), _c('h3', [_vm._v("Dark")]), _vm._v(" "), _c(VBtn["a" /* default */], {
+    staticClass: "font-weight-bold",
+    attrs: {
+      "text": "",
+      "color": "blue",
+      "href": "/gapsoo"
+    }
+  }, [_vm._v("Gapsoo(Dark Dokkaebi Lord)")])], 1)], 1), _vm._v(" "), [_c('adsbygoogle', {
     attrs: {
       "ad-slot": "9249275840"
     }
@@ -272,7 +279,7 @@ var monstersvue_type_template_id_eb9efcce_render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/monsters.vue?vue&type=template&id=eb9efcce
+// CONCATENATED MODULE: ./pages/monsters.vue?vue&type=template&id=6a0164ae
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/monsters.vue?vue&type=script&lang=js
 /* harmony default export */ var monstersvue_type_script_lang_js = ({
@@ -307,7 +314,7 @@ var componentNormalizer = __webpack_require__(7);
 
 var component = Object(componentNormalizer["a" /* default */])(
   pages_monstersvue_type_script_lang_js,
-  monstersvue_type_template_id_eb9efcce_render,
+  monstersvue_type_template_id_6a0164ae_render,
   staticRenderFns,
   false,
   null,
