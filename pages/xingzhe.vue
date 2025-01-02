@@ -26,45 +26,55 @@
           <div class="headline font-weight-bold my-6" style="font-family: Anton!important;">VIDEOS</div>
           <v-row justify="center" class="main-banner-area rounded-xl pa-4">
             <template v-if="$vuetify.breakpoint.mdAndUp">
-              <v-col cols="4">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/881VEI_gpzs" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】The power ULTIMATE Xing Zhe, he is world no.1 monkey!!</v-card-subtitle>
+              <v-col cols="6">
+                <v-card hover ripple style="height:100%" href="https://youtu.be/1L2DS8bOdyI" target="_blank">
+                  <v-img src="xingzhe4.png" style="position:relative"></v-img>
+                  <v-card-subtitle class="font-weight-bold">WTF!? SPD+0 All Revenge Xing Zhe Debut🤩🤩🤩</v-card-subtitle>
                 </v-card>
               </v-col>
-              <v-col cols="4">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/4VkjIsmg36M" target="_blank">
-                  <v-img src="xingzhe2.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】SEASON23 MVP DOUBLE Xing Zhe, I used Vio and Desp!!</v-card-subtitle>
-                </v-card>
-              </v-col>
-              <v-col cols="4">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/-rKRYuu4Hro" target="_blank">
-                  <v-img src="xingzhe3.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】THE BUFFED God Despair Xing Zhe, is his good rune set despair or ???</v-card-subtitle>
-                </v-card>
+              <v-col cols="12">
+                <span>The video introduces an RTA strategy that leverages "Speed 0" monsters.<br>
+                This concept involves intentionally setting monsters, which would typically require speed, to zero speed to explore their potential. This time, Xing Zhe is featured.<br> 
+                By utilizing his passive skill for automatic counterattacks and stun effects, the strategy explores how he can be effective in combat despite having zero speed.<br> 
+                Previous examples of success with passive skill-focused monsters, such as Fuco (Wind Lich) and Amuduat (Dark Horus), serve as a foundation for this experiment.<br>
+The specific stats for Xing Zhe are highly durable, with an additional 33,000 HP, 1,220 defense, 97 resistance, and 33 accuracy.<br> 
+Counterattack runes are equipped to maximize the stun activation rate of Skill1.<br> 
+This build is designed to fully capitalize on the skill enhancements made to Xing Zhe, which have led to an increase in his usage rate among high-level RTA players.<br>
+In matches, Xing Zhe disrupts opponents’ actions through stuns and counterattacks, creating advantageous situations.<br> 
+His build compensates for the handicap of zero speed, even against immunity monsters and highly durable enemies.<br> 
+The efficiency of the stun effect from counterattacks demonstrates the viability of a durability-centered strategy.<br> 
+Notably, this approach proves stable even against high-damage water monsters or tanky enemies, highlighting its strength.<br>
+In summary, while Speed 0 builds are not conventional strategies, this approach proves they can be viable under specific conditions.<br> 
+Applying this tactic to passive skill monsters like Xing Zhe not only makes it more than just a gimmick but also broadens strategic possibilities.<br> 
+It’s a meaningful effort to diversify RTA gameplay and serves as an inspiration for players seeking new challenges.<br>
+Although such niche strategies may not appeal to everyone, they provide valuable insights for players focusing on durability and counterattack effects.<br></span>
               </v-col>
             </template>
             <template v-else>
-              <v-col cols="12">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/881VEI_gpzs" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】The power ULTIMATE Xing Zhe, he is world no.1 monkey!!</v-card-subtitle>
+            <v-col cols="12">
+                <v-card hover ripple style="height:100%" href="https://youtu.be/1L2DS8bOdyI" target="_blank">
+                  <v-img src="xingzhe4.png" style="position:relative"></v-img>
+                  <v-card-subtitle class="font-weight-bold">WTF!? SPD+0 All Revenge Xing Zhe Debut🤩🤩🤩</v-card-subtitle>
                 </v-card>
               </v-col>
               <v-col cols="12">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/4VkjIsmg36M" target="_blank">
-                  <v-img src="xingzhe2.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】SEASON23 MVP DOUBLE Xing Zhe, I used Vio and Desp!!</v-card-subtitle>
-                </v-card>
+                <span>The video introduces an RTA strategy that leverages "Speed 0" monsters.<br>
+                This concept involves intentionally setting monsters, which would typically require speed, to zero speed to explore their potential. This time, Xing Zhe is featured.<br> 
+                By utilizing his passive skill for automatic counterattacks and stun effects, the strategy explores how he can be effective in combat despite having zero speed.<br> 
+                Previous examples of success with passive skill-focused monsters, such as Fuco (Wind Lich) and Amuduat (Dark Horus), serve as a foundation for this experiment.<br>
+The specific stats for Xing Zhe are highly durable, with an additional 33,000 HP, 1,220 defense, 97 resistance, and 33 accuracy.<br> 
+Counterattack runes are equipped to maximize the stun activation rate of Skill1.<br> 
+This build is designed to fully capitalize on the skill enhancements made to Xing Zhe, which have led to an increase in his usage rate among high-level RTA players.<br>
+In matches, Xing Zhe disrupts opponents’ actions through stuns and counterattacks, creating advantageous situations.<br> 
+His build compensates for the handicap of zero speed, even against immunity monsters and highly durable enemies.<br> 
+The efficiency of the stun effect from counterattacks demonstrates the viability of a durability-centered strategy.<br> 
+Notably, this approach proves stable even against high-damage water monsters or tanky enemies, highlighting its strength.<br>
+In summary, while Speed 0 builds are not conventional strategies, this approach proves they can be viable under specific conditions.<br> 
+Applying this tactic to passive skill monsters like Xing Zhe not only makes it more than just a gimmick but also broadens strategic possibilities.<br> 
+It’s a meaningful effort to diversify RTA gameplay and serves as an inspiration for players seeking new challenges.<br>
+Although such niche strategies may not appeal to everyone, they provide valuable insights for players focusing on durability and counterattack effects.<br></span>
               </v-col>
-              <v-col cols="12">
-                <v-card hover ripple style="height:100%" href="https://youtu.be/-rKRYuu4Hro" target="_blank">
-                  <v-img src="xingzhe3.png" style="position:relative"></v-img>
-                  <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】THE BUFFED God Despair Xing Zhe, is his good rune set despair or ???</v-card-subtitle>
-                </v-card>
-              </v-col>  
-            </template>    
+            </template>
           </v-row>
         </v-col>
       </v-row>

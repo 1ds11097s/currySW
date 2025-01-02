@@ -24,6 +24,12 @@
     "chunkName": "pages/camilla"
   },
   {
+    "name": "chamie",
+    "path": "/chamie",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\chamie.vue",
+    "chunkName": "pages/chamie"
+  },
+  {
     "name": "chow",
     "path": "/chow",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\chow.vue",
@@ -64,6 +70,12 @@
     "path": "/giou",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\giou.vue",
     "chunkName": "pages/giou"
+  },
+  {
+    "name": "gronn",
+    "path": "/gronn",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\gronn.vue",
+    "chunkName": "pages/gronn"
   },
   {
     "name": "haegang",
@@ -108,10 +120,22 @@
     "chunkName": "pages/laika"
   },
   {
+    "name": "lamiella",
+    "path": "/lamiella",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\lamiella.vue",
+    "chunkName": "pages/lamiella"
+  },
+  {
     "name": "leo",
     "path": "/leo",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\leo.vue",
     "chunkName": "pages/leo"
+  },
+  {
+    "name": "manon",
+    "path": "/manon",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\manon.vue",
+    "chunkName": "pages/manon"
   },
   {
     "name": "meihouwang",
@@ -136,6 +160,12 @@
     "path": "/monsters",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\monsters.vue",
     "chunkName": "pages/monsters"
+  },
+  {
+    "name": "mork",
+    "path": "/mork",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\mork.vue",
+    "chunkName": "pages/mork"
   },
   {
     "name": "ophilia",
@@ -166,6 +196,12 @@
     "path": "/raki",
     "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\raki.vue",
     "chunkName": "pages/raki"
+  },
+  {
+    "name": "rex",
+    "path": "/rex",
+    "component": "C:\\\\Users\\\\grayv\\\\OneDrive\\\\デスクトップ\\\\summoners war site\\\\currySW\\\\pages\\\\rex.vue",
+    "chunkName": "pages/rex"
   },
   {
     "name": "rtanonrta",

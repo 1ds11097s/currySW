@@ -8,6 +8,7 @@ const _58c32d63 = () => interopDefault(import('..\\pages\\articles.vue' /* webpa
 const _4652fe5e = () => interopDefault(import('..\\pages\\belial.vue' /* webpackChunkName: "pages/belial" */))
 const _705831b1 = () => interopDefault(import('..\\pages\\bolverk.vue' /* webpackChunkName: "pages/bolverk" */))
 const _5e8f7c71 = () => interopDefault(import('..\\pages\\camilla.vue' /* webpackChunkName: "pages/camilla" */))
+const _0fc5425a = () => interopDefault(import('..\\pages\\chamie.vue' /* webpackChunkName: "pages/chamie" */))
 const _ddfe819a = () => interopDefault(import('..\\pages\\chow.vue' /* webpackChunkName: "pages/chow" */))
 const _cc103c0e = () => interopDefault(import('..\\pages\\diana.vue' /* webpackChunkName: "pages/diana" */))
 const _4d810b76 = () => interopDefault(import('..\\pages\\elsharion.vue' /* webpackChunkName: "pages/elsharion" */))
@@ -15,6 +16,7 @@ const _50885378 = () => interopDefault(import('..\\pages\\fengyan.vue' /* webpac
 const _8344a4a4 = () => interopDefault(import('..\\pages\\fuuki.vue' /* webpackChunkName: "pages/fuuki" */))
 const _19c51da3 = () => interopDefault(import('..\\pages\\gapsoo.vue' /* webpackChunkName: "pages/gapsoo" */))
 const _654f7eee = () => interopDefault(import('..\\pages\\giou.vue' /* webpackChunkName: "pages/giou" */))
+const _3a039c24 = () => interopDefault(import('..\\pages\\gronn.vue' /* webpackChunkName: "pages/gronn" */))
 const _da0a4a2e = () => interopDefault(import('..\\pages\\haegang.vue' /* webpackChunkName: "pages/haegang" */))
 const _4eeb8fe2 = () => interopDefault(import('..\\pages\\helena.vue' /* webpackChunkName: "pages/helena" */))
 const _5b0a4bbb = () => interopDefault(import('..\\pages\\josephine.vue' /* webpackChunkName: "pages/josephine" */))
@@ -22,16 +24,20 @@ const _15b466f2 = () => interopDefault(import('..\\pages\\juno.vue' /* webpackCh
 const _5625dbda = () => interopDefault(import('..\\pages\\kaki.vue' /* webpackChunkName: "pages/kaki" */))
 const _cbc0173a = () => interopDefault(import('..\\pages\\karnal.vue' /* webpackChunkName: "pages/karnal" */))
 const _c1b57998 = () => interopDefault(import('..\\pages\\laika.vue' /* webpackChunkName: "pages/laika" */))
+const _122c1e5a = () => interopDefault(import('..\\pages\\lamiella.vue' /* webpackChunkName: "pages/lamiella" */))
 const _8b02cc40 = () => interopDefault(import('..\\pages\\leo.vue' /* webpackChunkName: "pages/leo" */))
+const _43736e83 = () => interopDefault(import('..\\pages\\manon.vue' /* webpackChunkName: "pages/manon" */))
 const _70a5b286 = () => interopDefault(import('..\\pages\\meihouwang.vue' /* webpackChunkName: "pages/meihouwang" */))
 const _d5bc3a08 = () => interopDefault(import('..\\pages\\membership.vue' /* webpackChunkName: "pages/membership" */))
 const _79f8a144 = () => interopDefault(import('..\\pages\\molong.vue' /* webpackChunkName: "pages/molong" */))
 const _dd983e02 = () => interopDefault(import('..\\pages\\monsters.vue' /* webpackChunkName: "pages/monsters" */))
+const _168d8e81 = () => interopDefault(import('..\\pages\\mork.vue' /* webpackChunkName: "pages/mork" */))
 const _81be6d28 = () => interopDefault(import('..\\pages\\ophilia.vue' /* webpackChunkName: "pages/ophilia" */))
 const _70f251da = () => interopDefault(import('..\\pages\\perna.vue' /* webpackChunkName: "pages/perna" */))
 const _29da9622 = () => interopDefault(import('..\\pages\\praha.vue' /* webpackChunkName: "pages/praha" */))
 const _72330f13 = () => interopDefault(import('..\\pages\\rakan.vue' /* webpackChunkName: "pages/rakan" */))
 const _2d4e15f3 = () => interopDefault(import('..\\pages\\raki.vue' /* webpackChunkName: "pages/raki" */))
+const _0f3a5e22 = () => interopDefault(import('..\\pages\\rex.vue' /* webpackChunkName: "pages/rex" */))
 const _558ae74a = () => interopDefault(import('..\\pages\\rtanonrta.vue' /* webpackChunkName: "pages/rtanonrta" */))
 const _9d6ddbf0 = () => interopDefault(import('..\\pages\\seara.vue' /* webpackChunkName: "pages/seara" */))
 const _69e6eca2 = () => interopDefault(import('..\\pages\\suiki.vue' /* webpackChunkName: "pages/suiki" */))
@@ -69,6 +75,10 @@ export const routerOptions = {
     component: _5e8f7c71,
     name: "camilla"
   }, {
+    path: "/chamie",
+    component: _0fc5425a,
+    name: "chamie"
+  }, {
     path: "/chow",
     component: _ddfe819a,
     name: "chow"
@@ -96,6 +106,10 @@ export const routerOptions = {
     path: "/giou",
     component: _654f7eee,
     name: "giou"
+  }, {
+    path: "/gronn",
+    component: _3a039c24,
+    name: "gronn"
   }, {
     path: "/haegang",
     component: _da0a4a2e,
@@ -125,9 +139,17 @@ export const routerOptions = {
     component: _c1b57998,
     name: "laika"
   }, {
+    path: "/lamiella",
+    component: _122c1e5a,
+    name: "lamiella"
+  }, {
     path: "/leo",
     component: _8b02cc40,
     name: "leo"
+  }, {
+    path: "/manon",
+    component: _43736e83,
+    name: "manon"
   }, {
     path: "/meihouwang",
     component: _70a5b286,
@@ -144,6 +166,10 @@ export const routerOptions = {
     path: "/monsters",
     component: _dd983e02,
     name: "monsters"
+  }, {
+    path: "/mork",
+    component: _168d8e81,
+    name: "mork"
   }, {
     path: "/ophilia",
     component: _81be6d28,
@@ -164,6 +190,10 @@ export const routerOptions = {
     path: "/raki",
     component: _2d4e15f3,
     name: "raki"
+  }, {
+    path: "/rex",
+    component: _0f3a5e22,
+    name: "rex"
   }, {
     path: "/rtanonrta",
     component: _558ae74a,

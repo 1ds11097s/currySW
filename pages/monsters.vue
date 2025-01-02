@@ -16,6 +16,9 @@
           <v-btn text color="blue" class="font-weight-bold" href="/praha">Praha(Water Oracle)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/camilla">Camilla(Water Valkyrja)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/susano">Susano(Water Ninja)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/mork">Mork(Water Tomb Warden)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/lamiella">Lamiella(Water Specter Princess)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/manon">Manon(Water Macaron Guard)</v-btn>
           <h3>Wind</h3>
           <v-btn text color="blue" class="font-weight-bold" href="/leo">Leo(Wind Dragon Knight)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/xingzhe">Xing Zhe(Wind Monkey King)</v-btn>
@@ -24,6 +27,7 @@
           <v-btn text color="blue" class="font-weight-bold" href="/seara">Seara(Wind Oracle)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/giou">Giou(Wind Onmyouji)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/diana">Diana(Wind Unicorn)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/gronn">Gronn(Wind Tomb Warden)</v-btn>
           <h3>Fire</h3>
           <v-btn text color="blue" class="font-weight-bold" href="/juno">Juno(Fire Oracle)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/rakan">Rakan(Fire Chimera)</v-btn>
@@ -36,8 +40,10 @@
           <v-btn text color="blue" class="font-weight-bold" href="/perna">Perna(Fire Phoenix)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/raki">Raki(Fire HellLady)</v-btn>
           <v-btn text color="blue" class="font-weight-bold" href="/helena">Helena(Fire Unicorn)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/rex">Rex(Fire Tomb Warden)</v-btn>
           <h3>Light</h3>
           <v-btn text color="blue" class="font-weight-bold" href="/elsharion">Elsharion(Light Ifrit)</v-btn>
+          <v-btn text color="blue" class="font-weight-bold" href="/chamie">Chamie(Light Nine-tailed Fox)</v-btn>
           <h3>Dark</h3>
           <v-btn text color="blue" class="font-weight-bold" href="/gapsoo">Gapsoo(Dark Dokkaebi Lord)</v-btn>
         </v-col>

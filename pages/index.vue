@@ -16,9 +16,9 @@ If you are interested, please contact me through discord
       <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
         <v-col cols="3" class="text-center">
           <span>RTA Season Record</span><br>
-          <span>Season26 - G3</span><br>
-          <span>Season27 - G3</span><br>
-          <span>Season28 - G3</span>
+          <span>Season29 - G3</span><br>
+          <span>Season30 - G2</span><br>
+          <span>Season31 - G3</span>
         </v-col>
         <v-col cols="7">
           <span>I post videos on Youtube with various monsters</span><br>
@@ -44,45 +44,45 @@ If you are interested, please contact me through discord
       <div class="main-banner-area rounded-xl pa-4 mb-4">
         <v-slide-group multiple show-arrows>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/AuvixG8PyKM" target="_blank">
+            <v-card hover ripple class="carousel-content-pc" href="/manon" target="_blank">
+              <v-img src="p1.png"></v-img>
+              <v-card-subtitle class="font-weight-bold">CRDMG 200%, Crazy Power Rage Manon is tooooo dangerous🥶🥶🥶</v-card-subtitle>
+            </v-card>
+          </v-slide-item>
+          <v-slide-item>
+            <v-card hover ripple class="carousel-content-pc" href="/xingzhe" target="_blank">
+              <v-img src="p2.png"></v-img>
+              <v-card-subtitle class="font-weight-bold">WTF!? SPD+0 All Revenge Xing Zhe Debut🤩🤩🤩</v-card-subtitle>
+            </v-card>
+          </v-slide-item>
+          <v-slide-item>
+            <v-card hover ripple class="carousel-content-pc" href="/chamie" target="_blank">
+              <v-img src="p3.png"></v-img>
+              <v-card-subtitle class="font-weight-bold">Full Power ATK 4000 over, Crazy DMG Dealer Chamie🤪🤪🤪</v-card-subtitle>
+            </v-card>
+          </v-slide-item>
+          <v-slide-item>
+            <v-card hover ripple class="carousel-content-pc" href="/gronn" target="_blank">
               <v-img src="p4.png"></v-img>
-              <v-card-subtitle class="font-weight-bold">HP+35000 crazy trap Laika, he is the strongest guardian that no one can predict😛😛</v-card-subtitle>
+              <v-card-subtitle class="font-weight-bold">The Power of Gronn, Don't touch him, or you'll get an automatic counter😝😝😝</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/2LRK1jGmkGo" target="_blank">
-              <v-img src="p5.png"></v-img>
-              <v-card-subtitle class="font-weight-bold">It's impossible to defeat him, Akroma × Guillaume combo debut😆😆😆</v-card-subtitle>
+            <v-card hover ripple class="carousel-content-pc" href="/mork" target="_blank">
+              <v-img src="p5.png" style="position:relative"></v-img>
+              <v-card-subtitle class="font-weight-bold">The Power of Mork, He is God Tank and can put up shields that are too hard😐😐😐</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/UIqg24ptDM8" target="_blank">
-              <v-img src="p6.png"></v-img>
-              <v-card-subtitle class="font-weight-bold">Finally!! I Summoned New LD5🤩🤩🤩</v-card-subtitle>
+            <v-card hover ripple class="carousel-content-pc" href="/rex" target="_blank">
+              <v-img src="p6.png" style="position:relative"></v-img>
+              <v-card-subtitle class="font-weight-bold">The Power of Rex, His skill3 is too dangerous, and his skill2 is too supportive🥰🥰</v-card-subtitle>
             </v-card>
           </v-slide-item>
           <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/lldrHStYFVw" target="_blank">
-              <v-img src="p7.png"></v-img>
-              <v-card-subtitle class="font-weight-bold">G3 achieved, World Arena Season28 All Rune Showcase😉😉😉</v-card-subtitle>
-            </v-card>
-          </v-slide-item>
-          <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/qAUYVDzmHRg" target="_blank">
-              <v-img src="p2.png" style="position:relative"></v-img>
-              <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】THE BUFFED Ultimate Haegang, he gots so strong power for turn2!!!</v-card-subtitle>
-            </v-card>
-          </v-slide-item>
-          <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/SD5__9FBOmE" target="_blank">
-              <v-img src="p3.png" style="position:relative"></v-img>
-              <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】World Arena Season23 G3!, ALL MONSTER RUNE SHOWCASE!</v-card-subtitle>
-            </v-card>
-          </v-slide-item>
-          <v-slide-item>
-            <v-card hover ripple class="carousel-content-pc" href="https://youtu.be/3zjcQByViHA" target="_blank">
-              <v-img src="p1.png" style="position:relative"></v-img>
-              <v-card-subtitle class="font-weight-bold">【Summoners War | Curry's RTA】THE BUFFED Crazy Resis 100% Josephine, she is hyper tanky attacker!!!</v-card-subtitle>
+            <v-card hover ripple class="carousel-content-pc" href="/lamiella" target="_blank">
+              <v-img src="p7.png" style="position:relative"></v-img>
+              <v-card-subtitle class="font-weight-bold">The Power Lamiella, She destroys everything, her skill2 is too dangerous😉😉😉</v-card-subtitle>
             </v-card>
           </v-slide-item>
         </v-slide-group>
@@ -251,9 +251,9 @@ If you are interested, please contact me through discord
       <v-row justify="center" class="main-banner-area rounded-xl headline font-weight-bold pa-4 mb-4">
         <v-col cols="12">
           <span>RTA Season Record</span><br>
-          <span>Season26 - G3</span><br>
-          <span>Season27 - G3</span><br>
-          <span>Season28 - G3</span>
+          <span>Season29 - G3</span><br>
+          <span>Season30 - G2</span><br>
+          <span>Season31 - G3</span>
         </v-col>
         <v-col cols="12">
           <span>I post videos about RTA basically every day on Youtube</span><br>
