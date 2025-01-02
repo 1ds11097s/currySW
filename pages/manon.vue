@@ -25,7 +25,7 @@
             <template v-if="$vuetify.breakpoint.mdAndUp">
               <v-col cols="6">
                 <v-card hover ripple style="height:100%" href="https://youtu.be/YVfRhwzqvek" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
+                  <v-img src="manon1.png" style="position:relative"></v-img>
                   <v-card-subtitle class="font-weight-bold">CRDMG 200%, Crazy Power Rage Manon is tooooo dangerous🥶🥶🥶</v-card-subtitle>
                 </v-card>
               </v-col>
@@ -53,7 +53,7 @@ This video aims to fully convey the fun and appeal of the Rage build, encouragin
             <template v-else>
             <v-col cols="12">
                 <v-card hover ripple style="height:100%" href="https://youtu.be/YVfRhwzqvek" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
+                  <v-img src="manon1.png" style="position:relative"></v-img>
                   <v-card-subtitle class="font-weight-bold">CRDMG 200%, Crazy Power Rage Manon is tooooo dangerous🥶🥶🥶</v-card-subtitle>
                 </v-card>
               </v-col>
