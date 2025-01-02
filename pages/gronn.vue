@@ -25,7 +25,7 @@
             <template v-if="$vuetify.breakpoint.mdAndUp">
               <v-col cols="6">
                 <v-card hover ripple style="height:100%" href="https://youtu.be/u0jSEjMwj1I" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
+                  <v-img src="gronn1.png" style="position:relative"></v-img>
                   <v-card-subtitle class="font-weight-bold">The Power of Gronn, Don't touch him, or you'll get an automatic counter😝😝😝</v-card-subtitle>
                 </v-card>
               </v-col>
@@ -56,7 +56,7 @@ Specifically, it shines as a "stun machine" leveraging Despair runes or as a sta
             <template v-else>
             <v-col cols="12">
                 <v-card hover ripple style="height:100%" href="https://youtu.be/u0jSEjMwj1I" target="_blank">
-                  <v-img src="xingzhe1.png" style="position:relative"></v-img>
+                  <v-img src="gronn1.png" style="position:relative"></v-img>
                   <v-card-subtitle class="font-weight-bold">The Power of Gronn, Don't touch him, or you'll get an automatic counter😝😝😝</v-card-subtitle>
                 </v-card>
               </v-col>
